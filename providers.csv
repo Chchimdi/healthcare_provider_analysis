@@ -1,0 +1,1001 @@
+ProviderID,ProviderName,Specialty,YearsExperience,Rating,Company
+21048afd-5b4a-4494-b67a-539d0e8a73ca,Wendy Mays,General Practitioner,21,3.1,Moda Health
+3f9f8454-9e40-4020-a55a-0d2addb5d3db,John Summers,General Practitioner,29,1.6,Moda Health
+6ca2d72f-0a9c-464f-bc74-7d544df278bb,Loretta Rasmussen,Surgeon,32,2.4,Moda Health
+ded4357a-fbb8-4f2e-be25-b483725a9a20,Candice Foster,Cardiologist,32,2.4,Moda Health
+f43d53ce-2c6f-41b5-8d95-e23dbf19e6c4,Elizabeth Carlson,Surgeon,33,1.9,Moda Health
+aacc38e0-cf17-4edc-a0d4-1e588f6cecd8,Suzanne King,Cardiologist,4,1.1,Moda Health
+a767e78b-7f96-43b4-a03c-1c1fae3ee929,Clinton Thompson,Surgeon,22,4.7,Moda Health
+4738b2fa-4e8e-4284-9003-e1d8b920aa29,Dr. Christopher Barton III,General Practitioner,15,2.4,Moda Health
+d8b65f52-aaef-4576-9b92-49772888b687,Victoria Banks DDS,Surgeon,34,1.8,Moda Health
+5e5f92e8-ba98-4dba-bee2-b50b87cdec06,Jamie Nichols,General Practitioner,6,4.5,Moda Health
+e06a9d70-c1fd-41cd-97be-59c4d2281754,Carolyn Gomez,Surgeon,18,3.0,Moda Health
+f3eeb041-3e03-4709-9035-b36e6de3e8a6,Kimberly Williams,Surgeon,21,4.3,Moda Health
+182c9696-5d01-4e3b-b36b-276afa5b4423,Melissa Johnson,General Practitioner,14,4.1,Moda Health
+3e2ca919-5a35-4697-a74d-c256efc8811c,Matthew Johnston,Cardiologist,11,1.5,Moda Health
+f3219e87-5dd4-4f06-90e7-74a1b68ac97d,Joshua Jordan,Surgeon,7,3.1,Moda Health
+a86c7f34-a9a4-4752-88c7-6bd5ad2d75e0,Brianna Thompson,General Practitioner,30,2.3,Moda Health
+e6523f56-0b00-40ee-8f85-8fe2afbdcb31,Neil Matthews,Cardiologist,37,3.7,Moda Health
+e37b70a8-ec02-4367-9aa7-bcd791d24832,Angela Brown,Cardiologist,20,4.1,Moda Health
+a8d32784-6294-48b5-8333-14da84b4a6e2,Ronald Zuniga,General Practitioner,10,2.1,Moda Health
+d3550cb9-0092-4e7e-b31e-5aa818934f6e,Kenneth Knight,Surgeon,33,2.7,Moda Health
+764f92c3-2dd6-4566-92e5-a7500095b3e9,Steven Cooper,General Practitioner,27,4.5,Moda Health
+11003187-5f86-44a1-b76e-bcaa1bec8d42,William Snyder,Cardiologist,10,4.1,Moda Health
+2f2e3ae2-6693-4291-a350-158f83142a61,Debra Arnold,Surgeon,17,2.1,Moda Health
+184140a6-9b52-4808-9954-e1267014a3c1,Rebecca James,Cardiologist,9,3.9,Moda Health
+b416635a-45bb-4af8-aa65-410e83f71fbc,Christopher Byrd,Cardiologist,2,1.1,Moda Health
+5fdf6536-2ea2-4417-8e40-13637aad2822,Timothy Shaffer,General Practitioner,21,3.3,Moda Health
+1ef59637-fe1a-4d92-a6a7-5281a899ce61,Amanda Martin,General Practitioner,19,1.2,Moda Health
+a3bdaf92-13e3-45cd-a22a-cfe4a5fa0769,Jesus Smith,Cardiologist,22,1.5,Moda Health
+2eb203b8-2948-43e1-a569-955befd0bbfe,Michelle Payne,Cardiologist,6,4.3,Moda Health
+d0a45abc-4980-40e7-8c40-b6b03973aa4b,Donald Martin,Cardiologist,13,3.7,Moda Health
+1b657c3f-e7cd-4baa-9b42-1a2ada4a17e8,Justin Parker,Surgeon,18,2.8,Moda Health
+37ba823a-9a3d-4198-af2d-6f360c9b62d1,Scott Shaw,General Practitioner,35,2.6,Moda Health
+371b5d60-b20f-497b-985a-339b019e1c0c,William Ramsey,Cardiologist,8,4.5,Moda Health
+a2cf1edf-e98c-4f36-8fee-bfd703344042,Erika Andrews,Surgeon,17,2.0,Moda Health
+9d41d409-3111-44e8-b19e-c438713557bd,Tammy Morgan,Surgeon,31,2.6,Moda Health
+d95c140f-2637-4dd2-8c0a-8daa604f100a,Erin Jackson,General Practitioner,29,1.6,Moda Health
+60f0101d-9e3a-4bdf-9f30-37fd56db1d7b,Jesse Moore,General Practitioner,35,3.7,Moda Health
+9c62ff40-cfc7-48f9-a263-61f81bb25e55,Steven Anderson,Surgeon,12,1.7,Moda Health
+0216bf8c-56db-44d3-b1b5-1d6f9dad3f43,Christine Callahan,General Practitioner,30,5.0,Moda Health
+31709dbb-b8db-490c-b243-52626c297bac,Paula Malone,Surgeon,17,4.9,Moda Health
+436c8d90-8040-46fe-85ab-3c9e2a58894d,James Bailey,Surgeon,9,1.3,Moda Health
+cc2ad29d-e1a5-4cc8-bb90-251b77e286e9,Danny Mcgee,General Practitioner,37,1.3,Moda Health
+ee36aa70-370b-4f80-90af-cf48151d6e51,Douglas Arnold,Cardiologist,18,2.0,Moda Health
+eb11a5d3-23e4-4c18-b94b-ab3b99c1a7e0,Michael Morris,Cardiologist,7,2.2,Moda Health
+b729b4b9-3d51-459c-8a1f-bc4d3fa626b7,Joshua Powell,Cardiologist,31,4.2,Moda Health
+85425b6c-5c6e-434b-8bb6-11a3dbe211f3,Jennifer Jones,Surgeon,38,4.0,Moda Health
+8368fb03-9263-4a5b-84c6-0db985ad12db,Jill Parker,Cardiologist,27,1.7,Moda Health
+dc5ae573-083d-4c6a-b328-b59f32a71054,Thomas Johnson,General Practitioner,22,4.0,Moda Health
+20e872ed-693b-45d8-ac9d-c0ee19461961,Brian Morris,Surgeon,36,2.5,Moda Health
+7c5e5cb0-cfe8-4e09-ac4f-a963dc476d87,Dana Vargas,Cardiologist,24,2.3,Moda Health
+3d61f801-3acf-44ed-aa1d-dd31815dc356,Brenda Burke,General Practitioner,33,1.8,Moda Health
+dce8fe59-2b42-4dc0-9f1e-ac3c0e668390,Theresa Jackson,Surgeon,33,3.2,Moda Health
+29cce0e6-aa32-46f1-8c67-9427caede356,Timothy Noble,Cardiologist,35,3.0,Moda Health
+3efe454e-89f0-4a61-9148-36246e719e55,Tanya Marquez,Cardiologist,25,4.6,Moda Health
+c3bba111-c034-4ffb-98a9-44e844d62a96,Marc Evans,General Practitioner,23,1.7,Moda Health
+993c53e5-c999-4b19-a28d-0c83e5f46b6d,Ryan Cooper,Surgeon,30,1.1,Moda Health
+97cf2ffd-4b91-4e39-b3f3-edb8899b3bcf,Natalie Williams,Cardiologist,33,1.6,Moda Health
+0a89a92c-8ba4-44e2-9a35-dd483c9dcf52,Tanya Meyers,Cardiologist,23,1.1,Moda Health
+2db7a164-8e67-4ce0-8e4c-ff625466ae54,Kevin Rodriguez,Cardiologist,5,3.3,Moda Health
+51574e28-69ca-4ed0-a03b-326bbd66bd19,Anthony Osborn,Cardiologist,23,4.1,Moda Health
+d2aa6f1b-994d-4914-88cf-41958b809912,Kathryn Mckee,Cardiologist,15,4.9,Moda Health
+a56a07a4-c712-442c-85f5-8e17e8c16665,Nancy Williams,General Practitioner,16,4.4,Moda Health
+51684065-0756-4f6d-bf6f-67e688a826ee,Troy Watson,General Practitioner,2,1.7,Moda Health
+66387f91-3464-4c09-8cfc-0aa67a23c426,Frank Reilly,Surgeon,36,4.9,Moda Health
+b5cbeaaa-70a0-42d8-9246-52e3195119b7,Mark Anderson,General Practitioner,20,3.3,Moda Health
+67af607f-ee81-40f0-8c3e-5b67a1b81f41,Mary Reeves,Cardiologist,39,4.2,Moda Health
+33d393e0-8d36-482d-89ee-2df47e796ed0,Amanda Lee,Surgeon,36,1.0,Moda Health
+1b6ef1d1-7290-475d-8701-8082c18133bc,Richard French,Surgeon,17,1.8,Moda Health
+c30f29e5-3149-41dd-a36e-88a4addbc7b4,Cory Shepherd,General Practitioner,34,4.7,Moda Health
+2ce6bf5e-a6d2-413f-95ea-70d0c158df81,Matthew Perez,Cardiologist,10,2.0,Moda Health
+b51eb897-9ad1-4026-81fc-92aea2b2e3c5,Sean Dunn,Cardiologist,12,3.2,Moda Health
+1139b08b-01ed-477d-833f-43bde059c3f9,Glenn Curtis,Cardiologist,25,3.9,Moda Health
+aa6da681-aaef-41af-9ae9-9b91cfeb4d03,Tyler Chavez,Cardiologist,38,1.4,Moda Health
+30fd14e8-ce0e-4e5c-84b1-5f3662ec9948,James Morales,Cardiologist,27,3.3,Moda Health
+a30bb32e-4621-4b8e-9530-ff008152e264,Ariel Cervantes,Cardiologist,21,1.9,Moda Health
+7a520f14-c491-4816-b480-e6e590dee96e,Valerie Lawrence,Cardiologist,27,2.4,Moda Health
+0a9fa7bb-73c5-4bd3-a5e1-63f38f19b989,Jean Owens,Cardiologist,20,2.8,Moda Health
+66e9e243-6512-4031-829d-dbed615ec0ba,John Tucker,General Practitioner,3,4.0,Moda Health
+4a0be2fb-0f79-4506-a3fe-bd610e20805c,Ashley Mccall,General Practitioner,13,4.7,Moda Health
+32456abc-ba28-4f10-bbff-044a5a8e8c4a,Emily Delacruz,General Practitioner,24,4.9,Moda Health
+78232cdf-785c-4d5d-8efd-50fa75ad96fc,Thomas Holt,Surgeon,23,2.5,Moda Health
+8c383751-f95b-458c-845d-279b09a88f20,Sheila Franklin,Cardiologist,37,2.0,Moda Health
+d0187dae-5246-44e9-9e29-85a530ece7f0,Luis Irwin,Surgeon,30,2.1,Moda Health
+fa9c42de-4cab-47da-b6f8-dd66e9c760b4,Lindsey Munoz,Cardiologist,10,4.1,Moda Health
+cff7e824-bb7a-4072-ad90-2ce7eff2c83d,Lisa Paul,Cardiologist,33,4.4,Moda Health
+bd933215-b3a7-4160-9760-11983fb1b689,Katherine Brooks,Surgeon,11,1.7,Moda Health
+46f3f4d4-e3bf-4069-9c8a-533928396e55,Elizabeth Johnson,General Practitioner,19,1.1,Moda Health
+8cbbb30f-af27-46e6-8434-0a0d96a9f62e,Luis Ellis,Surgeon,26,4.4,Moda Health
+f781a7d7-5fe1-4134-95b7-a664df803b70,Leonard Martinez,Cardiologist,6,1.6,Moda Health
+5c0d090a-b098-4016-a85f-0fc01b6ac2ea,Jessica Rodriguez,General Practitioner,15,4.8,Moda Health
+73813b35-6c8b-4f3f-81a6-53fa6cc2a6d2,Frederick Gillespie,Cardiologist,37,4.9,Moda Health
+1928a7d5-3935-4ba7-baa4-dc4bd1064aa5,Tammy Garcia,General Practitioner,15,3.3,Moda Health
+7381765d-9874-43e3-845b-e9c92d41bd82,Dr. Nicole Ferguson,Cardiologist,31,2.9,Moda Health
+0e915dba-7790-47bb-aa41-1ad79ef17954,Ernest Chen,Surgeon,19,2.4,Moda Health
+ff7b56b2-66af-415d-959d-93cf1a3e9698,Patrick Kramer,Cardiologist,18,3.6,Moda Health
+4417916d-c0ee-4565-a61b-081edddbfb18,Jeffrey Thompson,General Practitioner,7,2.5,Moda Health
+7dffcdfe-ae15-4cd1-a7a4-2c2730ffd8f6,Amanda Bryant,Surgeon,4,2.7,Moda Health
+ac739217-f0fa-4b97-ab60-24f092ca1bfd,Colton Guerra,General Practitioner,36,3.5,Moda Health
+60302380-985c-40d3-b8a6-ff765b8d130e,William Cochran,Surgeon,10,1.1,Moda Health
+1ce6394f-cfdb-4c77-818f-ccee8a1dcdef,Holly Frank,Cardiologist,13,1.9,Moda Health
+7d16ab34-3cc4-4678-832d-a81197007e03,David Miller,Cardiologist,5,1.1,Moda Health
+d7a1e830-9d0c-49a1-8354-650f62a69168,Kevin Hart,Surgeon,1,4.1,Moda Health
+64db7e1c-2980-453e-95d3-60d244476ad7,Jorge Graham,General Practitioner,37,2.6,Moda Health
+0d26ec78-c8b6-48b7-9919-aab3f5dd934f,Daniel Garcia,Cardiologist,19,2.7,Moda Health
+da182852-5847-4bc3-9990-0ea136472ef2,Jonathan Martin,Surgeon,2,3.2,Moda Health
+dab8cd0d-ff1c-4f8a-ac8d-a40e2e1504b0,Jane Rodriguez,Cardiologist,5,2.6,Moda Health
+3bf679c7-1d86-4b4c-9072-a7124a6f69f1,Stacie Patterson,General Practitioner,21,4.2,Moda Health
+c58f9eff-a5c2-4baa-a169-14e5d601b05f,Victoria Foster,Cardiologist,28,2.7,Moda Health
+282b0a4b-49c1-42b6-ab14-7e7b03cb9f22,Calvin Lewis,Surgeon,18,3.3,Moda Health
+222a5abb-9460-4513-9756-78ae2554d437,Joshua Coffey,Surgeon,35,4.9,Moda Health
+30b4ade2-8c4e-4852-93e5-40cf9ba5e39c,Emily Henderson,Surgeon,5,5.0,Moda Health
+7e589462-a821-41c0-9597-556d1f7fa3e2,Kari Bush MD,General Practitioner,39,1.8,Moda Health
+b33f8e26-9fca-4b63-8ff6-95a833b7003b,Julia Sanchez,Cardiologist,37,2.8,Moda Health
+d4a3f355-b799-4c4e-8a07-0843cb9b0c08,Susan Roberts,General Practitioner,24,2.9,Moda Health
+548cc1fc-2d22-4f99-b0d8-8ffe9ab40516,David Gardner,General Practitioner,27,2.2,Moda Health
+31351eda-30c4-4e4a-8185-de99a879d665,Sara Zimmerman,General Practitioner,21,2.1,Moda Health
+6c7f248d-e41f-47b1-a614-ee2cf4a10494,Amy Sheppard,General Practitioner,12,4.4,Moda Health
+91771d4a-9514-449b-9385-6e7c1c5b98b9,Maria Alvarado,General Practitioner,5,4.8,Moda Health
+2db786fd-44fa-4a46-b44e-151be99fdb8d,Kimberly Martinez,Cardiologist,31,1.8,Moda Health
+b035567d-a33d-4661-80df-ef0400aba02e,Bobby Rodgers,Cardiologist,24,4.6,Moda Health
+80dec9d0-e089-4001-9422-b278b758d260,Robert Brown,Surgeon,6,2.6,Moda Health
+62cf2ec2-8a09-4ef1-a1fc-e67c4da28fec,Corey Thomas,Surgeon,26,3.6,Moda Health
+5600f503-512a-4cc4-9043-aef6677e73f0,Cody Benitez,General Practitioner,6,2.1,Moda Health
+448431bc-e18c-49a4-8257-db2322831285,Christopher Cross,Surgeon,5,4.8,Moda Health
+effaf64d-28e0-4b51-b0fe-2e989b644c93,Peter Johnson,Surgeon,7,4.1,Moda Health
+7825aac8-6238-4cf7-b107-2c0a760db0a0,William Thomas,General Practitioner,20,1.8,Moda Health
+b5cefd0b-713b-42a6-8485-fd2a17ed8e2e,Samantha Young,Cardiologist,2,3.5,Moda Health
+41cf810b-2fdf-414e-8eea-03ca1f2d9811,Brianna Wong,Cardiologist,18,4.9,Moda Health
+690b084a-dc4d-485f-8f3f-8eecf1558d44,Xavier Brooks,General Practitioner,25,2.1,Moda Health
+c8fe3ccc-be24-4d54-8b56-7c06d016c7e0,Daniel Ruiz,Surgeon,2,2.4,Moda Health
+a679bf24-5b6b-45cb-b30a-90434c700c91,Angel Miller,Surgeon,3,1.8,Moda Health
+daca91a2-ab9f-460f-a158-893cb337e069,Mark Smith,General Practitioner,22,3.6,Moda Health
+370a2894-c0d2-4482-98db-ff91d78c1b13,Margaret Hammond,Surgeon,8,4.6,Moda Health
+1aa850b3-a4ba-465c-9fbf-523c8a1771ad,Ashley Smith,General Practitioner,3,2.4,Moda Health
+377ec76d-6e5d-49ab-8be1-ed0ad2b3d147,David Garcia,General Practitioner,16,1.5,Moda Health
+88e67027-88c2-490f-8186-81b4431246ae,Christopher Watson,Surgeon,4,2.4,Moda Health
+dcc6e360-a15b-414b-aa03-9581e892d111,Gilbert Hernandez,Surgeon,23,3.5,Moda Health
+e39cc1b5-aa2a-4cdb-a1c9-98203c9b72e3,Anna Ramirez,Surgeon,29,3.9,Moda Health
+116e0de2-a97e-4ad2-906c-5706cd084ce4,Sandra Garcia,Surgeon,35,3.4,Moda Health
+bd5d521d-0d57-4926-9652-147ac9b4e489,Anthony Jones,General Practitioner,21,1.3,Moda Health
+402d257a-f187-4c45-b226-acfcc219d2a6,Robert Perry,Cardiologist,37,4.8,Moda Health
+fd931981-b442-4f2c-a358-196cdc587424,Joseph Waters,Cardiologist,15,1.8,Moda Health
+e1b28ae3-a9ef-4d90-b751-0e440efd3eba,Matthew Fox,Surgeon,14,3.3,Moda Health
+3eec440e-fdd8-4eb5-9aa5-51490eb66a96,Kayla Hampton,Surgeon,21,4.6,Moda Health
+dbd0b4e2-5aad-4045-be1f-2dd60963a46a,Lisa Jordan,Cardiologist,19,4.9,Moda Health
+ab793a97-2b46-44ee-97cb-7fb5da3ad67d,Ryan Richardson,Surgeon,32,4.4,Moda Health
+e698b251-3001-4a94-b10a-d3992e37f94a,Meghan Williamson,Cardiologist,25,1.5,Moda Health
+9c1dbf55-a508-456b-9232-942ecfea98f4,Kathryn Hernandez,Cardiologist,1,4.6,Moda Health
+da5b0541-9cbb-4817-8157-7bab0b1a1308,Adam Smith,Cardiologist,4,2.3,Moda Health
+844451cc-a0a2-458f-b7bc-b73f9cfa5c76,Jose Alvarez,Cardiologist,17,3.3,Moda Health
+68963eea-ade9-4c6f-82f3-2e3fe02cc28a,Diane Acosta,Cardiologist,6,1.6,Moda Health
+0f57fae2-a094-4853-87b6-9ae17e7e75f4,Nicholas Archer,Surgeon,5,3.1,Moda Health
+85a3f1ee-3d64-422a-a11e-9b458a8aa463,John Gonzalez,Cardiologist,16,2.9,Moda Health
+a962fdb1-3d8d-4243-ad3f-e886f8c2c889,Donald Lee,Cardiologist,2,1.0,Moda Health
+6d22fc9e-5335-4bae-90e0-9cf11ba02dc0,Sheryl Taylor,General Practitioner,13,2.1,Moda Health
+dac0f9ec-e7af-4711-883e-d01b2d36eb4a,Cameron Fitzpatrick,Cardiologist,24,1.6,Moda Health
+4e0842d3-62ee-4fda-9e10-4def83ef1efe,Micheal Woods,Surgeon,33,2.4,Moda Health
+75a4f08b-ea88-4283-87e0-17695a9a6c0b,Robert Gibson,Cardiologist,13,2.1,Moda Health
+7fb70af0-7013-461f-a2dd-f968576e7965,Shannon Vazquez,General Practitioner,4,2.9,Moda Health
+a7b4f69d-b94f-4c97-9af3-344b79343ba7,Kenneth Barber,Surgeon,35,4.1,Moda Health
+ad04da2a-0f9d-4ebf-afed-e0ff29e70220,Jacob Roberts,Surgeon,30,1.1,Moda Health
+425c8238-542a-4637-8662-0686b3e32e4b,Manuel Oconnell,Cardiologist,20,1.9,Moda Health
+6250ccc7-07f5-49f7-8c49-d93791979d40,Natalie Jackson,General Practitioner,30,4.9,Moda Health
+63d91f72-324f-4733-b99f-ce502768d171,Laura Contreras,General Practitioner,17,1.2,Moda Health
+ba320ae6-9c1b-41e5-8b06-76bdd3c1a60f,Tiffany Gregory,Cardiologist,31,3.4,Moda Health
+83aa4cae-39f1-4142-adb0-4f2477ab38cd,Travis Garza,Cardiologist,29,5.0,Moda Health
+d8917f3e-9d68-4a17-95e2-512a0f43487e,Edward Russell,Surgeon,20,3.4,Moda Health
+bfed3bdc-740a-4359-a942-705c2a183088,Jeffrey Thompson,Surgeon,37,1.2,Moda Health
+b897934d-e443-4fea-a4f7-a288950359d9,Savannah Lee,General Practitioner,9,1.5,Moda Health
+91037d01-0be2-4291-b2b4-5cb100433ac7,John Shelton,General Practitioner,9,4.6,Moda Health
+f1cf6d14-12dd-4764-a582-2d789ed0b13a,Cynthia Dawson,Cardiologist,33,4.5,Moda Health
+017dec82-66fb-4e36-86be-5723b48fa650,Billy Garcia,Surgeon,23,3.2,Moda Health
+399b1079-caec-43cd-a43d-2be3e4352934,Thomas Salazar,General Practitioner,11,2.1,Moda Health
+66409418-d215-42ac-99c5-a534b03ff650,Jennifer Hebert,Cardiologist,8,3.0,Moda Health
+a79be960-1a37-400b-b54a-808456d1e0a2,Cynthia Garcia,General Practitioner,21,2.0,Moda Health
+0867dfb2-5116-4ce3-a4fa-b4a26397ff53,Matthew Copeland,General Practitioner,38,3.8,Moda Health
+59a0e042-33b4-4535-939f-24c9993ab580,Kiara Allen,General Practitioner,6,3.4,Moda Health
+5a1ba650-fe3f-4d4b-b2d2-6537fa299d02,David Pacheco,General Practitioner,6,4.2,Moda Health
+6d6f5f96-a557-4ab9-8aef-1e12b29d7d80,Darlene Wagner,Surgeon,8,3.0,Moda Health
+6f753b51-4e45-4dc9-a883-d5899785987e,Barbara Olson,General Practitioner,33,1.2,Moda Health
+fe1acec8-8140-4222-a69e-282b4b122179,Erica Turner,General Practitioner,8,4.2,Moda Health
+cab78924-2b32-4b16-bfe9-79c5292de11c,Joshua Sullivan,Surgeon,3,1.8,Moda Health
+225864c1-9107-48c5-83a0-b89be9512ac2,Angela Abbott,Surgeon,26,1.9,Moda Health
+033a0ad8-b0ba-47e1-926f-6fa9a861dc24,Samuel Goodwin,Cardiologist,6,3.2,Moda Health
+37114b1e-6f8e-4ed8-802d-22ab91fb3707,Brian Cruz,General Practitioner,23,4.3,Moda Health
+70607689-f5f1-4837-b8dc-e1f8cb078532,Holly Adams,Surgeon,2,4.8,Moda Health
+28c8f884-6fb0-44a5-81ee-37ca18969742,Marvin Barry,General Practitioner,21,2.0,Moda Health
+bc2ad55b-8433-455c-89b7-027e8ca10897,Tanya Ortiz,Cardiologist,30,4.6,Moda Health
+d6673aee-bd39-4cc4-b29b-2bfb764b0237,Emma Johnson,Cardiologist,38,4.6,Moda Health
+9eabad7a-ce73-41b5-af96-edf0aa8fbc12,Jesse Mccarthy,General Practitioner,19,4.0,Moda Health
+cd95a38b-312c-47be-a401-232492970099,Sandra Rodriguez,Cardiologist,12,2.5,Moda Health
+e2dcfbfb-b54b-4785-8d2c-e3d1fb76867b,Aaron Caldwell,Cardiologist,22,3.2,Moda Health
+1d6a193a-511b-4f41-8a41-6bc7dc956fe1,Jill Smith,Cardiologist,21,1.6,Moda Health
+8fd00f6c-1e49-4bef-a52a-ddd3f2a8771b,Allison Grant,Surgeon,15,3.3,Moda Health
+c9e20144-0d25-45df-bbde-59541e5b5fc5,Lucas Walters,Cardiologist,3,3.3,Moda Health
+8f433550-5b00-4b03-a250-2a4d8e341e20,Nicholas Gomez Jr.,Cardiologist,28,3.3,Moda Health
+76c90313-1b0e-40a5-8e26-530de530db58,Amanda Duran,Cardiologist,13,4.7,Moda Health
+94164375-0ee5-43c3-8465-c32de5161446,Christine Gonzalez,General Practitioner,11,3.1,Moda Health
+200991cf-7005-4f5a-b937-1dd053e5b832,Fernando Meadows,Surgeon,26,2.0,Moda Health
+0c3dfe52-754d-4597-8f82-6372d24cbdf7,Bethany Price,Surgeon,19,3.2,Moda Health
+d942e327-880e-49cf-89c5-f39f20708819,Victoria Buck,General Practitioner,37,1.5,Moda Health
+1f4fc7b1-97ee-47f3-89b1-dfe31d054d37,Samuel Santos,Cardiologist,39,1.3,Moda Health
+d6548125-14d3-4cd1-a595-98fbee85b2eb,Daniel Martin,Cardiologist,14,4.3,Moda Health
+f1c7d4e7-821c-4b02-ae34-bb6b6da9e55b,Jeffrey Jacobson,Surgeon,13,3.9,Moda Health
+8f416f9c-5b1e-463e-ac42-d57215f1c533,Gregory Khan,General Practitioner,26,1.3,Moda Health
+b374c655-2b1a-444b-9609-a882f24b6f1d,Jennifer Sellers,General Practitioner,29,3.2,Moda Health
+b7afb72e-7fd0-40c5-be1a-2a8e9368f518,Courtney Burch,General Practitioner,5,3.1,Moda Health
+9b8e2877-d517-48b2-b47b-98caa625d37e,Sarah Brady,Cardiologist,31,3.0,Moda Health
+6a25dba5-c3ae-49d6-ab0a-89ca81ffc825,Charles Pruitt,General Practitioner,37,1.1,Moda Health
+7643be38-c062-49a6-8b2c-73bfed6051a8,Susan Guerrero,Cardiologist,7,4.8,Moda Health
+96d9f6df-357a-4f88-bdf0-5827779c8286,Cory Moran,General Practitioner,34,4.7,Moda Health
+21cef9a9-3143-4c9a-899e-547bc8a600f0,William Palmer,General Practitioner,12,4.9,Moda Health
+bc131932-46ec-4a60-b2ef-24260fe9a505,Alexandra Ware,General Practitioner,12,3.1,Moda Health
+fd85bc63-7117-4953-83c3-391d03860361,William Ponce,Cardiologist,29,1.5,Moda Health
+2ceaebed-aac5-4217-b6a2-cb3c72d0601d,Margaret Sullivan,Cardiologist,21,3.9,Moda Health
+8baa2679-e204-48ab-8a0e-ba49355b48fb,Sarah Brooks,Cardiologist,35,4.8,Moda Health
+ea177cff-15c0-4ed1-a535-a8a34d7df1fb,Phillip Dunlap,General Practitioner,8,2.0,Moda Health
+1719e15e-87d9-4f2b-af33-3129d27550ac,Charles Herring,Surgeon,4,2.1,Moda Health
+684567e3-2ba5-4f99-aaa8-df82a8cd413a,Dr. Stacey Maddox MD,General Practitioner,4,2.8,Moda Health
+c2aa3f30-3696-4a70-985c-bfdc2b11906d,Michael Gonzalez,General Practitioner,15,1.6,Moda Health
+56db2057-40b8-4046-8f11-131c6bf7303a,Dr. Jennifer Armstrong,Surgeon,18,3.3,Moda Health
+d7592c9f-2742-4470-a8f2-a03ec6149c84,Jessica Morris,Cardiologist,17,2.8,Moda Health
+6a217081-efec-4d35-bb67-191e8eac21e4,Leah Bennett,Surgeon,23,4.5,Moda Health
+d5a01cce-c349-4784-be89-1e1a540af971,Kyle Hernandez,Cardiologist,1,1.9,Moda Health
+c0f86e8c-c63e-45f2-82ed-89e7ee083c71,Christian Mann,General Practitioner,27,1.7,Moda Health
+2bb02dcf-3b1d-405c-b9e8-b405bfeaee1a,Lauren Harris,General Practitioner,23,3.0,Moda Health
+1caf3592-0e8f-4143-8ade-ed17a1d1f809,Jamie Smith,General Practitioner,34,3.1,Moda Health
+07c429be-ad52-4111-9ffd-c36639c9cf53,Sandy Roberts,Surgeon,19,2.6,Moda Health
+8490f86d-0125-4e19-9733-12ce6d2f06db,Melinda Lewis,General Practitioner,13,1.9,Moda Health
+cab550a3-af8a-4c56-ac93-a43408a45e01,David Fitzgerald,Surgeon,26,3.1,Moda Health
+898f10d0-cd5e-4a29-84d9-ced599f90454,Jonathan Allen,Surgeon,14,4.8,Moda Health
+6c68004b-bc0a-4744-b996-4db37086601c,Michelle Black,Surgeon,3,2.0,Moda Health
+f606db79-2585-4344-a103-7ebeee700385,Samantha Rice,General Practitioner,7,2.1,Moda Health
+39bb4c45-dac2-4126-a6a2-918a5d3c4f0d,Cynthia Hunter,Surgeon,23,1.1,Moda Health
+7ecfcee9-902d-45e8-aca7-0e81c1f846b2,Frank Vaughn,Surgeon,23,4.5,Moda Health
+e78bd13f-fa44-400a-b7a0-0f00d5bfa1dc,Justin Bishop,Cardiologist,21,2.1,Moda Health
+1f3bf71f-4781-4dc7-a284-a2958ef404f6,Nathaniel Martin,General Practitioner,23,1.2,Moda Health
+0609cff0-49cc-499b-bf94-19b380898be8,Jonathan Long,Surgeon,12,4.0,Moda Health
+c3099c76-8699-46fb-a202-582f4b1b7967,Juan Smith,Surgeon,30,4.7,Moda Health
+179f0f32-0e10-4daf-8941-1de50fd8d7e9,Nathan Sims,Cardiologist,19,2.7,Moda Health
+ab189c4d-1d57-44ef-9b23-46185ecf1780,John Dudley,Surgeon,23,2.3,Moda Health
+f4c8d965-464e-45b1-b340-1226810ad58b,Mitchell Edwards,General Practitioner,20,3.8,Moda Health
+8d54efb9-0e3e-46e3-88cd-6abbb5ca0139,Wesley Jones MD,Cardiologist,21,1.8,Moda Health
+f45f34e0-56b2-4203-85e8-9964fb6991a2,Angela Weber,Surgeon,7,3.2,Moda Health
+47d5b501-c495-4baf-bec2-6986594372ce,Barbara Macias,Surgeon,19,3.0,Moda Health
+43ab7563-7d7b-4f6d-88dc-7eecf9ce3b4c,Vicki Anderson,General Practitioner,12,3.3,Moda Health
+3ab72ce3-114e-4829-811c-7869c2b1abb0,Jeffrey Castillo,Surgeon,6,4.3,Moda Health
+29825d2f-784c-4bf2-a171-bc956884acbd,Lisa Patterson,General Practitioner,2,3.7,Moda Health
+755007ad-69b4-4476-9d2c-12e3d3de15c2,Samantha Powers MD,Cardiologist,19,4.5,Moda Health
+c6ddc284-74e2-4c9e-b8bc-e5c76f38c37a,Don Butler,General Practitioner,5,2.1,Moda Health
+bc4588f5-14f6-4413-a1f9-15f8836be25e,Christopher Young,Surgeon,5,2.0,Moda Health
+304c1ed3-6141-4358-a500-45b081f85e58,Beth Moore,Cardiologist,20,1.8,Moda Health
+221951bc-9ebb-4d67-a327-63a0336c982c,Danny Hensley,Surgeon,20,1.0,Moda Health
+74f1eb89-249d-4e8a-a05c-10ac099c5df7,Nicole Zhang,Cardiologist,36,3.6,Moda Health
+d94ee065-5a3d-4c39-99ea-0462fc442d03,Richard Wood,Surgeon,13,2.5,Moda Health
+cc291206-f8b5-455b-a67a-a545ccfc22ed,Tiffany Perez,Cardiologist,24,1.7,Moda Health
+d33e7523-cb9d-4c8b-aeaa-9ac3db42a6af,John Young,Cardiologist,7,2.0,Moda Health
+f7526e88-da94-493e-80e2-ec051803a983,Sylvia Thomas,Cardiologist,10,1.7,Moda Health
+4f4d4185-fe6d-41a5-91d6-691b3db139b0,Kevin Martinez,Cardiologist,4,1.7,Moda Health
+41520714-ac69-4472-a15e-787f0489aecf,Mark Mcdonald,Cardiologist,37,1.9,Moda Health
+a6ec032e-43f4-4201-b47e-b9ba6f40635d,April Townsend,Surgeon,32,1.4,Moda Health
+b4ae9b91-b7d8-41e2-882e-16dd573f657b,Mr. Ronald Fuller MD,Surgeon,31,3.2,Moda Health
+032d4626-bec4-476d-b452-a4cf154e5d1d,Anthony Goodwin,General Practitioner,24,4.3,Moda Health
+b2c1b8e6-6cf7-4336-aeed-a16744c9bfa5,Susan Thompson,General Practitioner,2,2.4,Moda Health
+3b2fd0a0-ff94-4458-a796-6df1f30b4380,Eric Torres,General Practitioner,22,4.7,Moda Health
+e3001883-d52b-4477-98ee-cfc3d3f008c0,John Ward,Surgeon,1,3.7,Moda Health
+6296789a-9e50-451b-9050-55035f140463,Mr. John Castro,Surgeon,2,4.3,Moda Health
+8b8aa3d0-3c7d-41c5-8140-8762c3a3c7b7,Jeffery Ramsey,Surgeon,5,4.7,Moda Health
+38d70e3d-2cd9-43d8-b928-0488b5d02d02,Erin Le,Surgeon,7,3.9,Moda Health
+f6b86333-f570-405d-9eaf-21edab1687b9,Dennis Rogers,Surgeon,30,4.1,Moda Health
+181d6d1a-d99e-4aca-b122-ef76f4b70524,Angela Fernandez,Surgeon,3,1.3,Moda Health
+f53c893c-a11d-441b-baeb-2be1316e39b3,Jessica Reed,Cardiologist,5,1.8,Moda Health
+e19b5cd5-69fc-40ec-8adc-a8463b1c8d99,Kari Brandt,Surgeon,37,2.3,Moda Health
+b8ed1736-24e4-4341-9788-8e65bb5fe27e,Brian Terry,General Practitioner,26,2.3,Moda Health
+a2319287-775c-4b87-833a-67afac9e0dc6,Ryan Green,General Practitioner,20,2.9,Moda Health
+376d5060-98d6-4fb6-bb70-657bd4beb617,Pedro Lyons,General Practitioner,39,1.4,Moda Health
+9eb56228-f216-4e2c-8f80-a8e4dae1a0cb,Jason Stewart,Cardiologist,12,2.4,Moda Health
+c2ff5420-b628-4f13-88ca-60a3cd1a9916,Claire Greene,General Practitioner,22,1.3,Moda Health
+5a7eb082-3009-45ca-893c-fa28199fb5df,Terri Johnson,Surgeon,31,2.3,Moda Health
+98e2efee-924e-4b94-a063-eff5101c4ed2,Kathy Lambert,General Practitioner,2,3.6,Moda Health
+f97487ff-5183-47df-ae01-bc223788f980,Daniel Anderson,Cardiologist,20,1.0,Moda Health
+9813774e-2bea-4e68-8a81-ade86421e5f8,Keith Johnson,Cardiologist,34,2.1,Moda Health
+95114e54-477c-4789-8f02-122f4ac84e08,Tyler Smith,General Practitioner,4,1.3,Moda Health
+385f73fe-3a73-4dd0-9cc6-24cde1b81ebf,Andrew Kim,Surgeon,18,3.8,Moda Health
+60bd250d-f2c1-4dfb-bc5f-23f41e90456c,Stephanie Henry,Cardiologist,19,4.4,Moda Health
+48b70083-ee09-4972-9c2a-5d74246e1db0,Kayla Carlson,Cardiologist,23,4.9,Moda Health
+86e1ccc0-98d5-43e6-baa3-4cd45a0322d9,Susan Salas,Surgeon,3,3.5,Moda Health
+0d7e541a-e6d9-49c4-9b33-a9c69782277f,Elizabeth Wolf,General Practitioner,27,1.9,Moda Health
+dbe3ef75-1720-49b2-8e8e-ac3e8620e74d,Shirley Berg,Cardiologist,10,1.9,Moda Health
+d3bdc698-56c1-494d-a2a1-bcfd6f20ab1f,Garrett Mathis,Surgeon,34,3.0,Moda Health
+3da14a11-8a55-4c2e-9b4e-6012868befb0,Darren Martin,General Practitioner,14,4.7,Moda Health
+dc59bb7f-84fe-49a3-8e1c-2f72f9e1167a,Sheila Stephens,Surgeon,8,3.5,Moda Health
+8b9d3f47-8444-47a4-a2e1-faa4491b8f6e,Ryan Allen,Surgeon,27,1.7,Moda Health
+8966dfc0-2614-4434-aab7-1cab529b9772,Lisa Travis,Cardiologist,23,3.1,Moda Health
+9c57cb8f-a918-4ca8-a74d-fe7419a76cf1,Michael Vance,General Practitioner,33,2.6,Moda Health
+b2ec01b4-38f5-4cac-a87b-a9f326da006e,Jessica King,Surgeon,4,4.5,Moda Health
+ec288369-6c02-4264-af42-c4e94d70acda,Elizabeth Livingston,Surgeon,6,1.4,Moda Health
+80f8ff7c-4378-4c67-be54-3d78e7f31d71,Michelle Lane,Cardiologist,21,1.9,Moda Health
+cf5f47c1-9fd8-4b26-9efe-f5e1a0d4db0b,Tony Garcia,Cardiologist,10,4.0,Moda Health
+5da3b2c0-a415-4d73-aa05-e285de2049b9,Robert Alvarado,General Practitioner,9,4.9,Moda Health
+72821487-714d-4466-8f1a-93d7ede4d346,Michelle White,Cardiologist,18,4.2,Moda Health
+6904f7dd-8f71-4f4c-b476-e0010e733c00,Joanna Russell,General Practitioner,9,3.3,Moda Health
+1faf88f0-f137-44b6-93c1-cfc00010a2bb,Ashlee Ryan,General Practitioner,22,4.2,Moda Health
+2e67112b-8048-4fbc-9dc0-7d5e4c42f6a6,Patricia Spencer,General Practitioner,31,2.5,Moda Health
+3d3943df-1cdd-491a-92a7-2294a4a288d7,Eric Kennedy,Surgeon,26,2.0,Moda Health
+a9a35a95-5dd0-45ea-b2b1-60ed5ce45bf9,Julie Baker,Cardiologist,29,2.8,Moda Health
+47090bfa-2677-4909-8a1b-a5eaf4274160,Erin Strong,General Practitioner,8,2.2,Moda Health
+1a352b8b-ab96-4913-85d9-bde3d116c80c,Kristin Turner,Cardiologist,2,3.6,Moda Health
+ae061d23-cecb-4df8-a102-3c78ba6f636a,Angel Cruz,General Practitioner,15,4.7,Moda Health
+54d1c279-f5af-42ac-9ce0-0e287d28fd87,Kaitlyn Cochran,Surgeon,38,3.7,Moda Health
+09a994f2-5a32-431b-bb6d-f6078c2e5f94,Wayne Cook,Cardiologist,3,4.1,Moda Health
+2f0f711a-1e19-431e-bc14-864e0e407d82,Jacob Henry,Cardiologist,1,4.7,Moda Health
+822b51aa-afbe-4342-b472-bd9a7f388ee0,Jesse Lucero,General Practitioner,21,3.9,Moda Health
+92cc45a6-0fa6-4c74-a7fb-0bc217e16ed0,Mary Skinner,Cardiologist,18,2.8,Moda Health
+4dcc9a93-1283-4d7b-a663-afcebb4ea288,Nicole Lloyd,Surgeon,8,4.0,Moda Health
+757bd796-983e-42a8-a153-260802dd242b,Pamela Ford,General Practitioner,37,5.0,Moda Health
+c8ca126f-9d2f-4537-be16-ef08fa9bc20c,Susan Roberts,Surgeon,19,3.7,Moda Health
+3747c8b7-3b1c-418c-bce3-5453f61d1a64,Ashley Moore,General Practitioner,19,3.9,Moda Health
+94a019f3-8de2-4b2b-a168-20cbb7be1822,Alexander Davis,General Practitioner,38,1.5,Moda Health
+d8f3995d-94f8-4111-a1d6-483067e780b0,Ashley Henson,Cardiologist,28,4.3,Moda Health
+5a9047fc-2810-44e7-a622-ca32b1f3819e,Debbie Smith,Surgeon,12,4.7,Moda Health
+d82d1329-d7f6-49fd-990b-cfe0ac567d25,Sabrina Mason,Cardiologist,29,1.3,Moda Health
+bcc4f559-0781-44e7-9f3b-e45c0e54198d,Thomas Gross,Cardiologist,19,4.7,Moda Health
+7f0b87d8-aa31-4960-ae83-b2c2ec6a6e0b,Cody Rojas,General Practitioner,31,4.0,Moda Health
+b016a4d8-08f4-40f2-9790-e4c373b41345,Christina Andersen,General Practitioner,35,2.0,Moda Health
+2327cf72-cbd4-4e1d-b2b0-1c36b46f2ad7,Jesse Mcknight,Surgeon,11,1.1,Moda Health
+440e9073-a596-468b-b1d5-791461ea2030,Andrea Anderson,Surgeon,1,3.4,Moda Health
+ffff7b02-09bc-4a5c-8f7b-54b7c4431d21,Valerie Johnson,Cardiologist,24,1.6,Moda Health
+38e45588-2f2e-4577-89b9-f640865359f0,Luke Thompson,Surgeon,20,4.5,Moda Health
+86dd875c-4836-4533-b851-3a9a9d0f3550,Carla Moore,Cardiologist,7,3.6,Moda Health
+4e0f7e70-937e-4958-8291-2d561e657a3c,Melissa Hernandez,Cardiologist,36,1.2,Moda Health
+1b6d68cd-97d8-49e8-8924-69ca2f479a37,Cynthia Carter,Surgeon,17,1.8,Moda Health
+e672cb62-c2cd-4e9d-a60a-00ed7a7edcaf,Lindsey Thompson,General Practitioner,25,3.5,Moda Health
+1d82b92a-dff2-4adb-a40f-2e814113d741,Matthew Black,General Practitioner,17,3.1,Moda Health
+1585f89f-d06e-46eb-8812-106b8e17c700,Julian Mcdonald,Cardiologist,14,2.2,Moda Health
+ce302dc7-21f5-4f26-9435-dfe9ad70b9e6,Joshua Rodriguez,Surgeon,15,2.6,Moda Health
+977951d7-5616-4574-ba35-a17a3b024da2,Travis Johnson,Surgeon,29,2.0,Moda Health
+90fc7504-5932-4723-8f59-c94d70b80d53,Lauren Sparks,General Practitioner,23,5.0,Moda Health
+ab5a553b-b6e7-4a51-b5d2-06a4c427feb8,Diane Rocha,General Practitioner,22,4.5,Moda Health
+10d9d71b-ebdc-4425-917d-7b6702e3e04e,Amanda Murphy,General Practitioner,18,4.0,Moda Health
+8cdfe6c6-922c-4bc6-85e7-f921bb777138,Joe Byrd,Cardiologist,18,2.0,Moda Health
+bf4bdf43-03b3-4cc6-af59-20f8d7621f1c,Cindy Smith,Surgeon,31,1.4,Moda Health
+5eab2ea5-c09e-4652-a7db-b4e28beeea54,Christina Frazier,General Practitioner,29,1.4,Moda Health
+8f0ce7ce-4b5a-46c6-9860-65e3e53332b0,Matthew Diaz MD,Surgeon,6,4.5,Moda Health
+02eb0167-a005-4076-ab92-b69af374a870,Pam Moore,General Practitioner,19,1.9,Moda Health
+2ae62570-8d20-4bad-bd91-d24afc7f1381,Teresa Conley,General Practitioner,26,1.2,Moda Health
+c97c5cd7-93b9-4227-9cd7-ce3be735fcc3,Michael Wilson,Surgeon,37,3.4,Moda Health
+5d88a202-dc61-478e-9b17-70d5810bcf07,Margaret Smith,Surgeon,21,4.0,Moda Health
+6de63a80-8d6e-4802-8380-ac3fb0ec0cec,Jack Bowman,Surgeon,36,4.6,Moda Health
+e8e7f44d-78dc-4492-a7c0-b1727fe083e8,Jason Bailey,Cardiologist,17,2.9,Moda Health
+1909ee05-6885-466f-995c-28645837be53,Shane Scott,Surgeon,9,3.9,Moda Health
+ca774f4f-1946-418b-935d-6151add634b7,Maria Wells,Cardiologist,11,1.2,Moda Health
+5329dd0d-ceaa-49b5-ba93-1e86d25e6b71,Tanner Conrad DDS,Surgeon,36,2.2,Moda Health
+cb43d0f8-b3bf-4bb4-89a3-72f834d2e35e,Robin Shepard,General Practitioner,17,1.3,Moda Health
+b5d1c3f8-9668-4237-a5b1-3df19a62f8fb,Wendy Phillips,Surgeon,35,2.6,Moda Health
+5a2109fb-fe66-4061-97d2-f10f0f44080f,Janice Duke,Cardiologist,10,1.8,Moda Health
+c1a6b5a4-dfe7-452a-8591-99f438ae4f58,Jonathan Shepherd,Cardiologist,22,3.0,Moda Health
+6acc6443-ca4a-474d-9c85-3359fd0edd1c,Eric Estrada,General Practitioner,11,2.0,Moda Health
+abea5b1d-0d32-4888-a6bb-e88c60768d07,Dr. Mandy Young MD,General Practitioner,8,1.8,Moda Health
+cfdb07a7-c314-4b5c-aebd-4a9f0d1554cf,Laura Jennings,Surgeon,21,3.4,Moda Health
+96e9b90b-e1d4-45e1-b94b-45c0e01b1d99,Jason Brown,Cardiologist,15,2.9,Moda Health
+a9187ee7-4716-4d59-a544-e433c01e45f3,Kristina Perez,Cardiologist,6,2.5,Moda Health
+5ffd5e64-9460-4c8e-b789-19ede03c1eca,Jenna Smith,General Practitioner,38,2.7,Moda Health
+541f09e3-1a79-4eec-92bc-8a49b2bb3428,Danielle Black,Cardiologist,39,4.8,Moda Health
+636e891b-5916-42d5-adf6-c155d9f4a36c,Sarah Dixon,General Practitioner,13,3.4,Moda Health
+2cdcde0a-babf-41d9-a8aa-c87677814462,Bethany Grant,Cardiologist,28,1.8,Moda Health
+78d16f87-b495-4b9c-b7f7-96d16b5c7caa,Tristan Anderson,Cardiologist,34,2.1,Moda Health
+306e69ff-ef8a-4117-937b-91ace53fff9d,Brian Bryant,Surgeon,32,2.2,Moda Health
+f1dc19d0-bfcb-43b0-8011-b5b106c431f4,Aaron Richardson,Surgeon,20,3.8,Moda Health
+32b35190-dd89-4743-a8c0-1596fb3043fc,Francisco Hernandez,Cardiologist,33,3.0,Moda Health
+aac59835-2efb-4a49-a428-160daab0b393,Robert Warner,General Practitioner,5,1.9,Moda Health
+bd62d396-98fd-4956-b7d1-74ba14b6c79e,Ms. Stephanie Mooney,Surgeon,19,3.3,Moda Health
+9ead4559-9ca4-425c-a9ec-f34cbf0f5da1,Sarah Gibson,Cardiologist,20,4.5,Moda Health
+73ee3b95-30d5-4f6d-96e4-55eb06bbb058,Brittany Wright,Cardiologist,30,1.5,Moda Health
+c8a317b8-0f94-41b3-81ea-3989da8f6f5c,Nicole Garcia,Surgeon,27,5.0,Moda Health
+d2f72957-4503-4ed6-af0c-8d3a66042535,Craig Anderson,General Practitioner,39,3.3,Moda Health
+becbb490-eba1-4270-bf8c-cbf86bf52b9d,Melissa Hill,Surgeon,8,1.3,Moda Health
+1fc6b46f-73b1-4419-bca4-5253e3b9bed5,Amy Ortiz,Cardiologist,6,4.7,Moda Health
+37b75d0c-3537-4d2b-b641-637711cef2bb,Diana Butler,Cardiologist,13,3.6,Moda Health
+a1022268-696f-4d60-acd7-4d5007dcd3f0,Alicia Hill,Cardiologist,28,2.0,Moda Health
+54c9026a-708e-42a9-bd24-3692d6d23d78,Amy Brady,Surgeon,19,1.0,Moda Health
+6ba2c85a-3109-4a87-acb3-c7272d8c4ff2,Mason Williams,Surgeon,35,4.3,Moda Health
+5d26a7d3-b1dc-4ed0-a194-f0b417c2c7f3,Alan Bentley,Cardiologist,29,1.8,Moda Health
+846ae7e3-ec28-4ad4-961b-23435ca8710e,Wesley Ellis,General Practitioner,19,4.6,Moda Health
+ad8ca05a-8795-49fc-b5b7-c33fae2aa7e2,Karen Mack,Cardiologist,31,2.0,Moda Health
+322c5244-01ef-4b4d-b0e9-c9158ec1915f,Brenda Cooper,Cardiologist,31,2.2,Moda Health
+fda15193-5bfe-458d-9b56-c0d4476fba64,Gregory Johns,Cardiologist,37,2.7,Moda Health
+3ef6735e-fdba-4e3c-b007-b16c07288d1a,Barbara Ramirez,Cardiologist,20,4.4,Moda Health
+f2251751-5e7d-43bc-9319-848a6cdf3302,Leslie Shields,General Practitioner,36,2.5,Moda Health
+70c6d152-d1f8-4a1c-9b41-46b5ac2ebbbc,Amy Chavez,Surgeon,7,3.7,Moda Health
+f10c1e5f-b686-4a8f-a6a4-ccbf767b2581,Suzanne Thomas,General Practitioner,36,3.9,Moda Health
+de5ac649-1c40-4e89-b812-4779be65f1cb,Christopher Wallace,General Practitioner,23,4.6,Moda Health
+091ce440-c331-42af-8d4e-cbdbbbcf7944,Breanna Farrell,Cardiologist,31,4.8,Moda Health
+c6180822-359c-479e-a355-6899e0ba9972,Richard Hurley,General Practitioner,11,4.5,Moda Health
+40ae9055-6e67-41f8-93cc-ae3b57a9dee6,Sandra Carter,Surgeon,31,2.8,Moda Health
+3e5843b9-c6a5-4b27-abad-b2d6b455dc5f,Jacob Jones,Surgeon,38,3.2,Moda Health
+da6a43db-1815-4ead-8fa3-18670ed715ac,William Smith,Cardiologist,37,3.3,Moda Health
+25c2d018-f2de-4ead-9074-9c884fa71403,Donald Diaz,Surgeon,20,2.9,Moda Health
+847c620c-5c7d-4db1-ae25-4415ce825983,Dawn Lee,Cardiologist,29,4.7,Moda Health
+127f98ac-4e6b-43ae-881e-5e651548d9c9,Amanda Gonzalez,Surgeon,12,4.1,Moda Health
+3d4ef4a1-29fb-4109-ba62-174d7143b479,Katrina Jordan,Surgeon,32,1.4,Moda Health
+079f70be-8886-4178-8044-84bf9282aa73,Kimberly Hall,Surgeon,30,5.0,Moda Health
+35fd6376-f774-42b3-8e59-21ce32d33944,Annette Perez,Surgeon,12,1.8,Moda Health
+17799741-98eb-479c-bc08-263253f0da9f,Jason Williamson,Surgeon,31,2.1,Moda Health
+82774110-6906-4e1d-a3c5-cbaa952ec4c6,Laura Curry,General Practitioner,26,1.6,Moda Health
+e8dc6665-a7ec-4d5b-8dfe-f175fedcae9c,David Wood,Cardiologist,17,2.1,Moda Health
+57908b29-91dc-40f1-aac1-2c4b60d0babc,Sonia Leon,Surgeon,14,2.5,Moda Health
+83babdde-481f-4320-b01f-d5cd60f21477,Christopher Thomas,Surgeon,4,4.9,Moda Health
+30be1801-d5b2-4dea-be2e-283c5b44a6a3,Daniel Bullock,Surgeon,28,1.7,Moda Health
+a12b1ee0-89db-48e2-b2dd-643e23db0849,Michelle Marks,General Practitioner,7,3.4,Moda Health
+d76897d0-dc86-46db-8ad6-15354c4dbbc6,Timothy Lee,Surgeon,10,2.8,Moda Health
+f9184067-7cc4-403b-bac2-fc6f18425820,Susan Reyes,Surgeon,3,3.3,Moda Health
+b7fa2ec5-6580-4aac-bc24-ab8e59a8372c,Matthew King,Cardiologist,4,1.2,Moda Health
+08749b65-a905-466b-af4c-0f44d1d01af3,Tara Walker,General Practitioner,19,2.2,Moda Health
+eca6f5cc-f8a8-4938-be0b-c0c215bd7620,Richard Henderson,Surgeon,11,1.4,Moda Health
+648673ad-0f54-4cdb-af2c-3fbbec13177b,Justin Ali,General Practitioner,36,2.9,Moda Health
+bcb64aa1-9482-417b-b8e3-e1df279cd68c,Andrea Doyle,Cardiologist,8,4.6,Moda Health
+836a6889-2ef5-4598-a317-f65bf63ea4bf,William Jackson,General Practitioner,9,4.3,Moda Health
+8f1fd789-64bf-47b8-bdc4-27ca11a3c927,Joshua Thomas,Surgeon,14,4.5,Moda Health
+c47313f2-6467-4a60-8556-394f31770575,Glenda Malone,General Practitioner,35,2.6,Moda Health
+6a0b9c8d-966a-4e8b-b213-b9215aeaaf56,Michael Hernandez,Surgeon,8,3.0,Moda Health
+97e5c961-6829-4e62-ac89-8f252c901cb9,Haley Robinson,Surgeon,9,2.0,Moda Health
+c5f70c26-3bc5-435a-8641-1b28eec7aca6,David Taylor,Surgeon,30,3.4,Moda Health
+dd053961-5ff8-4a54-9742-1dcdbda45e15,Adam Rose,Cardiologist,18,2.8,Moda Health
+c877dcaf-0212-402d-8502-cb0b9c95a7b6,Tyler Williams,General Practitioner,35,3.0,Moda Health
+4af1d3c8-b228-466a-80fe-77f4cc8f2435,Gabriela Harris,General Practitioner,15,3.2,Moda Health
+d0b7cfe6-c3ba-4d1c-804a-726c49a431d0,Shannon Rogers,Surgeon,2,3.3,Moda Health
+2555dfc9-ebb0-4bd8-95f5-92ed4481d84a,Jason Harris MD,General Practitioner,10,2.9,Moda Health
+773281ba-c353-4283-a065-a6f934b10d5a,Darren Howard,General Practitioner,36,4.2,Moda Health
+455cab91-c557-4b28-8bc8-6ebb09f41200,Danielle Arellano,General Practitioner,2,2.6,Moda Health
+167451fe-ac84-418a-b8f0-ef051d66c9b2,Brian Brown,Surgeon,3,1.2,Moda Health
+1108cf0f-a663-4e15-a31d-be900d294eaa,Meghan Mitchell,General Practitioner,20,4.3,Moda Health
+7649b893-7c9c-414f-a2a0-4e2a7f7068ee,Karen Becker,General Practitioner,26,2.9,Moda Health
+ed7dddf1-39de-4793-a3b1-ed789dc2332a,Sarah Banks,Surgeon,12,2.9,Moda Health
+2b681971-6a44-4f41-8d97-bf74ae51331d,Kimberly Harmon,General Practitioner,9,1.7,Moda Health
+4a60a22e-fa9e-4a64-aa4c-01ff0d7e1a47,Dylan Fernandez,General Practitioner,30,2.8,Moda Health
+27c4c345-0b7d-49ef-b44b-7636f1100c39,Aaron Lang,Cardiologist,29,1.6,Moda Health
+a611ba81-a718-46bb-a7af-19a880d15302,Tina Gates,Surgeon,19,1.2,Moda Health
+b33ae9e5-a0ab-4e59-b545-a87630dbb90a,Elizabeth Harrington,Surgeon,26,4.9,Moda Health
+205faa1e-36b3-4b82-b5e3-5230294a867d,Samuel Lowe,Surgeon,28,2.0,Moda Health
+046a5aae-a0e1-4d99-a038-c9b504d6b941,Sarah Moses,Cardiologist,39,1.5,Moda Health
+9ccbeef8-67b9-4749-8002-6028fbe20d5c,Joseph Jones,General Practitioner,39,3.8,Moda Health
+db4399e0-5562-412b-9c5e-bf415e2d569a,Pamela Malone,Cardiologist,14,2.5,Moda Health
+8821dcfa-529f-40be-9279-161c26ba95e3,Adam Briggs,Surgeon,38,3.5,Moda Health
+0f0a665c-a194-4900-96eb-331cb05856bc,Elizabeth Pierce,General Practitioner,14,3.8,Moda Health
+c4029777-7409-4768-b73a-4ad352e3a6d7,Sharon Davis,General Practitioner,38,3.6,Moda Health
+17c9a96c-298d-4cb5-8384-7d1eddc1a97c,Nicole Arnold,Surgeon,6,1.9,Moda Health
+06d58c3a-b98d-4742-83d1-33ddeb1219a1,Jodi Martin,Cardiologist,23,4.1,Moda Health
+d0880236-eda6-4c66-aff8-61347cc85708,Eric Lewis,Cardiologist,26,1.3,Moda Health
+63cf28e3-3039-4085-9a8a-6b10dbd454fe,Melody Chang,Surgeon,30,4.2,Moda Health
+d2e55a10-6962-4478-86de-d4f09f3d18d9,Derrick Schwartz,Surgeon,6,1.6,Moda Health
+43290a8a-1c14-4575-9bb6-fccdd4e7d20e,Gary Mack,Surgeon,19,2.6,Moda Health
+ca1062d2-0b3e-4a11-afb0-b199843d6fa7,George Clark,Surgeon,20,1.0,Moda Health
+0b2fe477-376c-47bb-b587-87d5c03ff6ff,Christine Flowers,Cardiologist,35,1.7,Moda Health
+ba9457de-b32f-4f61-80bb-3d158d613a2b,Stephen Hudson,Surgeon,37,3.7,Moda Health
+1042541d-6ba2-4666-8b1a-a7d3d18b5bb5,Roberta Wagner,Surgeon,26,4.0,Moda Health
+e052bfba-e8e5-4bd9-9865-c23e55b8c80d,Todd Blake,General Practitioner,32,4.6,Moda Health
+0fc7d1bd-66cb-418e-95ea-710ce9e60822,Mary Lowery,General Practitioner,17,2.7,Moda Health
+a83f00a4-e9be-487b-9b44-c87ce49a0410,Dr. Shari Phillips MD,Cardiologist,24,3.4,Moda Health
+346cce47-daaf-4c32-a1b4-0c1d44ea27f5,Victoria Herman DVM,Surgeon,19,3.0,Moda Health
+dde915de-724c-494d-a919-b0ff035972f1,Amber Hines,Cardiologist,39,1.1,Moda Health
+d145230e-911b-40f5-9ca3-d7bb0d9f5e5c,Tyler Liu,Cardiologist,37,2.8,Moda Health
+1bf1ea10-b1c9-4475-a952-73becb527268,Jessica Zimmerman,Cardiologist,12,3.8,Moda Health
+877bd72d-085e-4e90-9b45-8b658d22e6b9,Mark Salinas,General Practitioner,13,3.7,Moda Health
+a6c9f9e6-f3de-475f-b5b8-6bec2b1ad510,Ariel Hernandez,Cardiologist,6,2.2,Moda Health
+10a4ea50-75ff-43b7-a531-3aa0a950656b,Mary Skinner,Surgeon,27,4.5,Moda Health
+023393d0-8c74-4fb2-9a27-8b1602f34412,Ryan Hamilton,General Practitioner,20,4.1,Moda Health
+00bf5f08-39ce-401c-a411-5bfbd7a62e0c,Jill Villanueva,General Practitioner,36,4.4,Moda Health
+fc42e3c2-829d-4e16-8807-b55488228114,Paul White,General Practitioner,14,4.7,Moda Health
+af1ea2e4-9791-4315-bb7b-1ad5a4cbece2,Justin Smith,Surgeon,21,1.9,Moda Health
+98e6e238-f81f-4ec6-bc2d-1645d40f2276,Sarah Sampson,Surgeon,7,3.9,Moda Health
+1b9cfc4d-b606-4349-af76-5f5cb4256067,Mark Hampton,Surgeon,2,1.2,Moda Health
+29fa1e24-5576-4abf-9f76-14ed7cb67a5b,Stephanie Taylor,Surgeon,1,2.2,Moda Health
+dd48e5c4-3673-466a-a876-2123b8c7e1ea,Maria Martin,Surgeon,29,2.9,Moda Health
+e7759d3f-a7c3-4e47-957d-aeda3e85e137,Gary Bryan,General Practitioner,35,2.5,Moda Health
+b0c35e20-2a4b-4465-b7b2-98ace4ae20f2,Tony Hutchinson,Cardiologist,31,1.8,Moda Health
+b1ca67cf-1427-4b4b-97b2-c46d4d14d34b,Eric Anderson,Surgeon,19,3.8,Moda Health
+beb4313c-ef5d-47c9-a113-d55535540ca1,James Warner,General Practitioner,15,4.7,Moda Health
+fa76e742-c0bd-4983-b327-46ab1347f8d6,Edward Roach,Surgeon,13,1.4,Moda Health
+f7442379-420b-401d-bb43-6ec4c67d7a5f,Brent Casey,Surgeon,35,1.9,Moda Health
+2c137971-2416-4342-bf44-df955c74e31a,Katherine Murillo,Surgeon,18,2.1,Moda Health
+6cb0009f-3d30-4ee3-846d-828f95b13ea3,Paul Sanchez,Surgeon,4,3.7,Moda Health
+888c6e8b-8752-4c18-9f30-f35b131c99fc,Deborah Sellers,Cardiologist,16,2.5,Moda Health
+c63b5dd6-0f6a-4266-851a-d46d2c7f8a95,Johnny Powers,Surgeon,26,4.1,Moda Health
+4775692b-0b19-45c2-ad98-080c8a587691,Sarah Morgan,General Practitioner,25,1.4,Moda Health
+bef5c852-8e83-412a-81ad-4423ff3c0ae8,Norma Hardy,Surgeon,20,2.8,Moda Health
+e714465d-7a32-4b3a-a603-24fe95f68b4d,Jesse Martin,Surgeon,32,2.2,Moda Health
+c935c7fc-9795-430d-b127-dd6d6a8f7bd2,Katie Wise,Surgeon,12,3.1,Moda Health
+55c735c8-b5fc-42cd-9a4e-4f891ccbec12,Ryan Mason,Cardiologist,10,1.5,Moda Health
+9758c28e-80fd-4fd2-8039-5c7cdbc84e78,Marcus Walls,Surgeon,22,2.8,Moda Health
+ffbd42bb-c0f0-45ed-9a55-e209bef62797,Sergio Summers,Cardiologist,4,3.1,Moda Health
+2a276aa0-422a-4cc4-82ea-0a07a98e4a00,Sandra Perez,General Practitioner,38,2.4,Moda Health
+dacea679-48d4-48c7-9409-ddf9bd8e4b7d,Jay Nguyen,Cardiologist,20,3.2,Moda Health
+7ccb12d5-4bfe-4c16-a892-052acdb1a1c5,Summer Walker,Cardiologist,28,3.9,Moda Health
+a567519e-810f-45f0-92fb-4037826fbc79,Laura Cooper,Cardiologist,26,3.7,Moda Health
+0c4a798f-1c77-42e0-ad84-53b29ce56182,Derek Romero,Cardiologist,17,2.4,Moda Health
+104b4d4d-e733-4034-9ebe-0f6710a68b4d,Zachary Blackwell MD,General Practitioner,4,1.3,Moda Health
+6bc644c2-fbcc-4c06-9d65-b9244fd71e59,Samuel Yates,Surgeon,1,4.3,Moda Health
+540baced-5f4d-435e-a2ec-2d2fa440f2b2,Margaret Hickman,Cardiologist,24,4.7,Moda Health
+25960377-b47b-4421-96f4-728f938d24c1,Larry Hanson,Cardiologist,15,1.9,Moda Health
+fd07236d-de66-498c-94d2-80d6ffc8ab86,Jose Bruce,Cardiologist,8,1.0,Moda Health
+9108352a-ffdb-4dcc-8eb8-2ab0e4cf65cb,Melissa Moore,General Practitioner,20,2.9,Moda Health
+6ae70257-8109-4438-b0cd-dd7dbeaaf5b0,Jason Alexander,Surgeon,10,3.5,Moda Health
+c896c1a2-df25-49e7-8de0-10653993e493,Debra Hayden DDS,Cardiologist,26,3.6,Moda Health
+561617b7-6a1d-4efd-be13-ca0040c9adfd,Harold Garcia,Surgeon,30,3.4,Moda Health
+0ab77440-2c44-473f-8fd3-70e9a7d5d2b7,Andrew Hudson,General Practitioner,16,3.7,Moda Health
+19bb9350-b828-4bf9-adbf-9d0a1ce59c1b,Nicole Hines,Cardiologist,10,3.9,Moda Health
+79b47a60-b9a7-4fe0-9f25-6e8470113a00,Mary Smith,Cardiologist,31,4.4,Moda Health
+dca61634-fb71-44f6-b3be-7e50c23f6a3e,Kimberly Gibson,General Practitioner,15,3.3,Moda Health
+fe7b7bd6-1e9e-4bac-8682-535a5952f520,Debra Davis,Cardiologist,14,1.1,Moda Health
+1f23bb9d-f75b-4865-a1c6-85ce507209a6,Leslie Hansen,General Practitioner,8,4.7,Moda Health
+8887c4c6-bcda-4534-8505-445e2a11944b,Daniel Stevens,Surgeon,17,2.7,Moda Health
+814d6c96-cc18-40ad-bb0a-1aac72cc59ee,George Brown,Cardiologist,8,2.9,Moda Health
+57aefcf4-7f8d-4e7c-96b2-262adc2b7511,William Garcia,General Practitioner,17,3.5,Moda Health
+faef1d81-525c-42a1-9fc9-d32c9047d076,Stephen Cruz,Surgeon,38,2.1,Moda Health
+8d0ac282-1946-4292-85a5-37b8190e0c76,Valerie Williams,General Practitioner,20,4.6,Moda Health
+7c64ff8d-3e16-4ec1-becd-e3a93e600fe8,Phyllis Garcia,Cardiologist,20,3.6,Moda Health
+2aa055b1-0b5d-4263-9648-b302f3c1b078,Ryan Mccoy,General Practitioner,32,1.5,Moda Health
+03fced80-0fcd-44a1-9cd3-7f85d6a1a3b5,Christina Jones,General Practitioner,19,2.5,Moda Health
+54e4fe00-af4d-404d-adb3-93d2fc5f280e,Michael Boyle,Surgeon,4,1.9,Moda Health
+f3b82f79-9f5c-49c4-8dde-0cf14e04c321,Joyce Odom,Surgeon,32,2.8,Moda Health
+5af357fd-d482-42aa-bef1-3b66bc501db8,Alyssa Kirk,General Practitioner,34,1.8,Moda Health
+c73f77c1-ec27-4420-af89-0a3625698620,Monica Miller,Surgeon,16,1.4,Moda Health
+c3d50272-eba5-4247-9ca9-bef6bfe9c915,Joanne Mitchell,General Practitioner,22,2.3,Moda Health
+303b08c3-efa7-4a94-a1d9-10b8121cd1e2,Elizabeth Adams,Surgeon,6,1.5,Moda Health
+d3ecd074-2d1b-4143-88ee-8993c78335af,Mr. Douglas Meyer,Cardiologist,35,1.1,Moda Health
+5b806c0c-b56d-4c3a-82ae-0628c43c6b47,Emma Singh,General Practitioner,30,3.0,Moda Health
+f872d2c3-ae03-452f-b3cc-268f6f96f78c,Amy Smith,General Practitioner,29,3.4,Moda Health
+35a1182c-2939-4854-b5c6-510a4370884f,Casey West,General Practitioner,17,1.8,Moda Health
+86e0ca15-da53-4db0-8187-6f6667cff323,Shawna Garcia,Cardiologist,5,2.4,Moda Health
+d3b8e922-3d32-4e5b-acc4-7c6c2f6d48dc,Briana Bowman,Cardiologist,28,2.8,Moda Health
+9ec32b90-9d6b-4084-a4a5-54d576f7f104,Darryl Benson,Surgeon,3,2.0,Moda Health
+c52bcbd0-9c4c-4012-838d-4658ec8f25e7,Jeffrey Brown,Surgeon,26,2.4,Moda Health
+293340dc-52fc-434d-905f-0e26482174fd,Ashley Moore,Cardiologist,29,2.0,Moda Health
+51c8a0b6-ecd7-4594-b427-a0a4ad4858f0,Darlene Fisher,General Practitioner,18,3.7,Moda Health
+9f388c21-92e2-453a-8af6-044ceec5fba1,Kristina Cochran,General Practitioner,31,2.6,Moda Health
+cf8ee1ec-d8b3-4261-bda6-28334828d77a,Kelly Cox,Surgeon,6,2.9,Moda Health
+deb06da2-e599-4b83-aab3-02c931f70afc,Christopher Price,Cardiologist,21,2.0,Moda Health
+2151af7d-2468-4b2d-8830-b679482e14fe,Diana Abbott,Cardiologist,35,3.3,Moda Health
+0d5709a2-6fb2-4d31-acbc-7ec506946710,Julie Thornton,Surgeon,14,2.7,Moda Health
+72ee5d42-b7cb-4876-99ae-2f9b59a0dda3,Michael Watson,General Practitioner,20,2.8,Moda Health
+374ca0eb-6d8f-487b-a511-065bdc8d8f1e,Brandi Mcdaniel,Cardiologist,35,1.8,Moda Health
+8b7cfe87-fec4-46aa-a827-18f3efa634e1,Timothy Simon,Surgeon,25,3.0,Moda Health
+bce82258-2c95-420c-bc1b-9e995bbbac66,Morgan Li,Surgeon,18,2.7,Moda Health
+5f19b97d-4319-449b-b7c3-19c9118a0c60,Wanda Nolan,Surgeon,5,3.2,Moda Health
+84bd3523-fdd1-44f5-8c62-c31b55efc513,Jodi House,Surgeon,8,3.1,Moda Health
+edbac8ed-27d3-4aa2-af4f-36294e1e50fe,Denise Hill,General Practitioner,34,3.8,Moda Health
+7b034df1-99d2-4346-b8ce-6b6ef2d3b1d6,Jessica Green,Cardiologist,8,2.4,Moda Health
+ec7e5aaf-cf5f-4474-8d45-3ba7a55892e6,Brandon White,General Practitioner,7,1.9,Moda Health
+6ac1f9d6-c6f9-44a6-a1bb-e6e9772d815f,Martin Anderson,Cardiologist,26,4.7,Moda Health
+04aae0a4-1671-45c4-90e8-82ea9cf9a81d,Jonathan Taylor,Cardiologist,26,2.6,Moda Health
+0b1aeb31-c497-437c-b926-773d021ab551,Brittany Sawyer,Cardiologist,38,4.3,Moda Health
+3712ac9c-c5ff-4102-876f-a87204215895,Brandy Leonard,Cardiologist,30,4.5,Moda Health
+73540ca8-ea10-476f-b427-54355e8b7660,Rebecca Lewis,Cardiologist,27,3.6,Moda Health
+38babf01-0cb4-4857-b40e-1e680b505667,Kevin Woods,Cardiologist,16,4.1,Moda Health
+8f090afd-335d-42a8-8c5a-0fc8e8a6f445,Nicole Delacruz,Cardiologist,19,4.6,Moda Health
+d3d82662-3168-4278-adc6-0f7cc46a1782,John Conley,Surgeon,13,3.0,Moda Health
+5f12adc4-32d3-493d-941e-13b792a1fa9d,Susan Chandler,General Practitioner,30,2.7,Moda Health
+22af5809-ba63-4dfd-b702-21cd880f6378,Tamara Leach,General Practitioner,10,3.9,Moda Health
+199ddd16-dc89-460a-b5bd-d046915070cb,Joshua Hughes,Surgeon,5,3.3,Moda Health
+cddfaeed-8b8b-45aa-a90b-e342506eba6b,Robert Smith,General Practitioner,39,1.3,Moda Health
+dea5bdaf-ec26-4392-b6f3-7b96a0837968,Linda Payne,Surgeon,39,4.2,Moda Health
+8ad95a38-05eb-4cf8-bfc3-c01da94003b9,Diana Brown,Surgeon,6,1.8,Moda Health
+7448aae6-0357-423a-9159-a5bf7a7a2c9e,Thomas Price,General Practitioner,33,1.9,Moda Health
+eaa038cf-e72a-4e50-929d-50ed51df3b21,Darryl Johnson,Cardiologist,16,4.5,Moda Health
+fb731c82-6954-4dd4-9884-69085be2e843,Damon Moore,General Practitioner,37,4.2,Moda Health
+1fcd3951-b438-4d8a-a4a6-f416ec59022c,Edwin Sweeney,Surgeon,3,4.1,Moda Health
+e084e7cd-fca5-442c-b67b-a7281be532a0,Jay Salazar,Surgeon,9,4.9,Moda Health
+534f470d-e0a6-4393-8f94-5448a8560489,Lindsay Rodriguez,General Practitioner,22,4.7,Moda Health
+d82b693f-fe59-43ef-ad4f-3324d35ed27b,Jaime Marshall,Surgeon,23,1.5,Moda Health
+6291473c-11f9-461a-a595-37f32a9a43c9,Samantha Williams,Surgeon,6,2.9,Moda Health
+71aa012a-8107-473d-ba85-6690055bc3b0,Emily Sparks,Cardiologist,33,2.2,Moda Health
+9b46f370-c167-4716-aa44-5df6000fb0e1,Richard Garner,Surgeon,38,4.6,Moda Health
+47fb0a11-ca80-4794-8be0-70a722812e75,Christine Terrell,General Practitioner,10,1.5,Moda Health
+799844ef-79de-4ac9-8f4a-24a44dccbd7e,Brandi Dunn,Surgeon,18,1.2,Moda Health
+cd2ed4ed-263c-4c07-917a-0ef00fbe43d3,Catherine Owens,Cardiologist,1,4.9,Moda Health
+69698474-988f-4a94-bf41-90cf003b0b22,Hannah Gordon,General Practitioner,1,3.3,Moda Health
+bac6b256-1dd3-43e6-be50-6bb3097c0353,Joshua Schultz,General Practitioner,23,2.1,Moda Health
+89aec8af-f741-43b5-ac02-3a9f63785011,Cameron Krause,Surgeon,26,2.3,Moda Health
+e2e71adf-9520-491f-872e-4dfe8628ec59,Tammy Baxter,Surgeon,33,1.6,Moda Health
+d3962f8b-01bf-4c78-b30c-f4794ec2df89,Emily Edwards,Surgeon,17,5.0,Moda Health
+df7d6e0c-87e1-4dc6-bdb9-8b6305c19fd2,Bobby Shaw,General Practitioner,1,4.5,Moda Health
+62912b90-a2f2-445f-b718-fdbafb8954bc,Anthony Russell,Surgeon,2,2.0,Moda Health
+b98b5fb0-5d27-43eb-a0b8-14d54740909b,Earl Williams,Surgeon,16,2.3,Moda Health
+9d978a88-3693-4789-8167-ca1df5730519,Jeffery Nguyen,Surgeon,1,1.7,Moda Health
+36ae98ce-6dcb-479c-b882-c10de6b7aefb,Kathleen Garcia,General Practitioner,32,3.1,Moda Health
+c4dbacc1-809a-497a-b3dc-270fb8db7ded,Benjamin Black,General Practitioner,4,4.9,Moda Health
+dd8c798a-211f-416d-a105-be990ca05fd7,Deanna Charles,General Practitioner,21,3.4,Moda Health
+453dc46f-9fdf-4917-8a88-1701cf0ab8b6,David Fields,Surgeon,21,3.7,Moda Health
+d923dcb9-efdc-4bba-88bf-2595a4cf150b,Patricia King,Surgeon,18,3.7,Moda Health
+18713d32-6570-4790-98d2-672eda22e6f1,Katherine Hutchinson,Cardiologist,27,1.8,Moda Health
+efc70bd6-7ead-4eb4-8c50-f714f202e59b,Heather Zavala,Surgeon,25,2.0,Moda Health
+1c82e302-264a-4f6e-bd6a-a7409940fc33,Michael Thompson,Surgeon,11,3.0,Moda Health
+2ea84ffc-4020-4f8c-bd10-01f7b33e7e3d,Mr. Gary Morris,General Practitioner,35,2.9,Moda Health
+76efa1d0-8852-4706-9bbf-f6ba0f68b0ec,Jamie Gonzalez,Cardiologist,5,2.3,Moda Health
+56583219-efce-4d9e-aee8-1b1a125b5747,Michele Owens,Surgeon,18,3.9,Moda Health
+88e89923-c05a-4f72-b745-84d5f9f45f8a,Mr. Thomas Day,Cardiologist,39,2.1,Moda Health
+bc0886be-7cd6-4fe0-b5db-4b28283733e9,Rachel Dixon,Surgeon,14,4.6,Moda Health
+b0405c7e-e34b-4e72-81d2-c5955fd95942,Christina Lewis,Surgeon,2,1.5,Moda Health
+e76243cc-4c2a-4cab-a380-cafec36b83e1,Sean Brown,General Practitioner,20,4.7,Moda Health
+a90ac2b7-2c17-4461-bbe1-836adb973da9,Edwin White,General Practitioner,16,1.4,Moda Health
+2d241527-0772-44d5-85c8-65d34d4caced,Mark Hensley,Surgeon,31,1.8,Moda Health
+6399e624-bd99-4dec-9acd-ee903e4061e5,Trevor Lambert,Surgeon,7,2.8,Moda Health
+cae19747-4b9b-4662-9f07-184713bfe8c1,Joseph Davis,General Practitioner,1,4.5,Moda Health
+40faba4b-194a-4b69-b347-16edcfcfb602,Tiffany Graves,Cardiologist,3,2.2,Moda Health
+2c6b98cc-3882-46d1-a986-f60eefee5954,Chad Rojas,Cardiologist,6,3.6,Moda Health
+1b6717a1-5c89-4b50-afc2-d9f8c33df52b,Ashley Martinez,Surgeon,25,2.4,Moda Health
+85261bca-52ab-4d4d-997f-5b3f731e1a4e,Alexander Rose,Cardiologist,13,1.1,Moda Health
+952d76e7-724f-48cf-90f7-878b8bc103fe,Luke Stevens,Cardiologist,12,3.5,Moda Health
+99fa628c-8697-4bea-9653-08d96f33523f,Madison Rodriguez,Surgeon,25,2.0,Moda Health
+78f57dec-9950-4654-b7c0-04071cacac4a,Debra Mills,Cardiologist,1,1.8,Moda Health
+7910c659-7712-45ad-a19e-34da41a1c980,Joshua Williams,General Practitioner,23,4.2,Moda Health
+60451364-18f1-4554-a237-36026101c74d,Karen Lewis,Surgeon,22,3.5,Moda Health
+b3b4748a-a01d-47fc-88ba-15125571f3a3,Isabella Sparks,Surgeon,1,4.2,Moda Health
+d10caad6-2c78-49c2-91b1-6def02af580d,Joseph Walls,Surgeon,23,2.1,Moda Health
+deb5f3e1-6e3b-4acb-be0d-10a3eadc0882,Leslie White,Surgeon,12,1.2,Moda Health
+636774f4-bb50-4df7-95e2-033f07a0f894,Kathryn Phillips,General Practitioner,24,4.4,Moda Health
+54874937-9920-45bd-81da-19a7af863e68,Douglas Boyd,Cardiologist,4,4.1,Moda Health
+c3452780-ffc9-4fcb-9906-7e500a27fd9f,Jeffrey Allen,Surgeon,17,1.0,Moda Health
+00382865-a727-43b7-8107-924006e1b8c6,Eric Hernandez,General Practitioner,11,3.8,Moda Health
+dbaf86ab-d786-4a76-bf8d-ed91737a6bbf,Marissa English,Cardiologist,13,2.0,Moda Health
+4d7a6632-73d4-45ee-acd8-4e8187ab701f,John Holland,General Practitioner,32,2.4,Moda Health
+81b698ac-13cf-4a03-a80d-5215b6c71cde,Jonathon Nielsen,General Practitioner,20,4.1,Moda Health
+34592dc1-e951-42a5-9da3-6452b9db67f6,Richard Cohen,Surgeon,19,4.9,Moda Health
+c6bf89db-7dfc-4f33-9172-a1086d52da41,Kevin Mills,Cardiologist,27,2.0,Moda Health
+aa5bef89-643a-4681-a55a-15d46df9ce16,Joshua Harding,General Practitioner,39,2.9,Moda Health
+b5444e40-91f0-4909-87e6-f5a0a0852838,Ann Clements,Surgeon,6,2.6,Moda Health
+8edd8e6a-a41d-434a-8770-34dcb901c79f,Kenneth Barton,General Practitioner,34,3.2,Moda Health
+67ba1a21-c40c-47a7-abc9-b7b61a25c669,Madison Medina,General Practitioner,17,3.1,Moda Health
+f384c8ff-27a7-4083-893e-78328bb81d96,Timothy Hartman,Surgeon,11,3.6,Moda Health
+7ea23c40-3711-4cda-8133-662aef5dcd0a,Kim Christensen,General Practitioner,39,3.0,Moda Health
+b9450fea-57f2-4734-a33c-66cabe33125a,Chad Byrd,Cardiologist,33,3.7,Moda Health
+f3ac4a3d-a37c-47e7-8c62-0c78ba3324a2,Michael Fox,Cardiologist,15,2.3,Moda Health
+b4a326ae-9882-464f-a87e-7d271a66034e,Steven Hammond,Cardiologist,21,1.9,Moda Health
+04f3495a-7e2a-4a42-8e96-82e1a5862dbe,Mary Haas,Cardiologist,17,4.6,Moda Health
+e37baece-09a9-4ab3-8fa9-f800efa15234,Megan Cervantes,Cardiologist,36,3.2,Moda Health
+44e6d46e-18fc-456a-8bd0-4a40a922ca16,Aaron Avila,Cardiologist,13,1.1,Moda Health
+6939a6b1-2837-4533-b856-7b157e2f6bfb,Michelle Jordan,Surgeon,37,1.5,Moda Health
+4b6ed8c0-5a11-4103-805c-b686dc74c49b,Haley Acevedo,General Practitioner,4,3.7,Moda Health
+8625ab01-2f85-4fb0-80d2-a90952e20bd8,Frederick Miller,Cardiologist,20,4.2,Moda Health
+db23a897-36c1-48d0-b48a-130297345003,James Wiggins,Cardiologist,36,4.3,Moda Health
+f0e2f076-8a23-401b-9e95-79049fa95f8a,Douglas Rowe,Cardiologist,32,2.7,Moda Health
+408f5a49-2802-44a9-9a90-70581bd3efaf,Holly Wright MD,Surgeon,27,3.3,Moda Health
+af7fcab0-0b55-49ba-b3cf-eb921efe9dd5,Stephen Nelson,Cardiologist,10,4.2,Moda Health
+c01b72fe-8554-46e9-a320-3ff2aff4c528,Yvonne Phelps,General Practitioner,27,4.8,Moda Health
+e87e0ab2-9532-4289-b88a-4674a15d6a04,Chelsea Thompson DDS,Cardiologist,8,4.5,Moda Health
+a1b225ad-ae7d-4f8d-830f-a36fd398d412,Richard Robertson,Surgeon,13,2.6,Moda Health
+7418f392-ad7d-4d6c-b839-222cf1004d44,Angela Foster,General Practitioner,30,4.8,Moda Health
+ea9821d1-8e78-4b5c-a426-14a6bc9deed3,Ashley Shelton,Cardiologist,33,1.5,Moda Health
+c24c41d9-8f04-48d0-8a3f-4b471d7f340b,Tyler Jensen,General Practitioner,31,4.6,Moda Health
+6bf9d31c-6ae8-434f-ad7b-12c33f426e2e,James Anderson,Surgeon,31,3.1,Moda Health
+0a3c9aa5-2a75-4ef8-844b-9ef7999c33d2,Lisa Brown,Cardiologist,39,3.9,Moda Health
+03335ba4-cc25-40a0-b0d1-e2a5540529c5,Robin Wilkerson,General Practitioner,5,4.1,Moda Health
+b5cac48e-c152-4ddd-921e-7a90dc5f8924,Stanley Lopez,General Practitioner,32,2.3,Moda Health
+d35ff2f2-5e51-4e56-a5ce-47e92b981372,Paul Brown,General Practitioner,20,4.5,Moda Health
+de3d06c7-dad2-421a-bf36-1d7bdb634169,Mark Martin,Surgeon,25,2.0,Moda Health
+0ac14ec9-e6fd-41f4-9521-b5eaa939fa21,Carlos Mullins,Surgeon,1,1.3,Moda Health
+ba702de6-ca86-4ae0-b6a9-ea1ae665304d,Jean Sanders,Cardiologist,27,4.0,Moda Health
+d9c165f7-6b33-441c-94a2-8e9ced401b9f,Jessica Willis,Surgeon,11,4.6,Moda Health
+539077ed-2803-4cc1-a7ff-10abe128aca7,Miss Victoria Thomas,General Practitioner,39,4.7,Moda Health
+3e5f2747-a026-406f-b6d9-ef8f96107c89,Barbara Rocha,Cardiologist,35,2.5,Moda Health
+95fec2c1-4510-4907-881b-30aa7b2bf038,Tracy Reyes,General Practitioner,9,2.4,Moda Health
+b7347a2b-815b-449f-84c2-2ff8a477ca49,Monica Hicks,General Practitioner,22,2.0,Moda Health
+e82048d0-c123-473f-aeea-9f4c915b13b8,Derrick Young,General Practitioner,10,2.9,Moda Health
+394ad6af-7b77-44d9-a741-25a2805d59e8,Karen English,Surgeon,30,4.9,Moda Health
+df6bc93d-df17-4304-a0c2-f2a9c0c57b33,Charles Vargas,General Practitioner,25,3.0,Moda Health
+2978aad1-d7d4-4a6d-b979-ff41c1773e0f,John Hernandez,Surgeon,24,2.0,Moda Health
+90c2aa36-fb6f-47b9-90d7-11b4b5903695,Elaine Patrick MD,Cardiologist,38,1.8,Moda Health
+60479798-2385-47de-b46e-cc673fda20fc,Mary Hernandez,Cardiologist,13,4.7,Moda Health
+dcb31220-b27d-46a5-8542-ef372b088147,Sheila Bullock,Cardiologist,34,3.8,Moda Health
+08bf72d3-0e98-4395-bcf1-fb151813fed7,Robert Mitchell,General Practitioner,21,3.8,Moda Health
+d377cf99-8f9e-48db-978c-40d7e847c4ba,Kathleen Rogers,Surgeon,4,3.4,Moda Health
+c0c5fa40-7f82-4ee6-9cb9-c7c90e1df62a,Andrew Doyle,General Practitioner,7,3.5,Moda Health
+ff7c1151-0631-466d-b9cb-e00b76da6cb9,Martin Taylor,Cardiologist,38,1.2,Moda Health
+469c017d-4889-4002-832d-095e7e0d8e4a,Bruce Fisher,Cardiologist,23,2.4,Moda Health
+1e7c2bf8-7a8e-4567-a197-955abb088f0c,Tricia Burns,Surgeon,38,1.3,Moda Health
+e4637e2f-4f89-4782-9678-d960d78c24e8,Tiffany Cohen,Surgeon,34,2.3,Moda Health
+6f71d114-da5e-4637-a090-59bfa18944fd,Joanna Meza,Surgeon,9,3.8,Moda Health
+86f52f2c-3c34-48e6-b265-ca56f1be497b,Cynthia Carr,Surgeon,18,1.3,Moda Health
+b163a363-11aa-4161-a756-72f2fe4ec66b,Nicole Nelson,General Practitioner,25,4.6,Moda Health
+b9d589ce-b7e5-4e08-9ab8-8ee8f7ab067e,Ronald Schroeder,Surgeon,39,2.4,Moda Health
+ec6a061f-cb87-4c5b-b4d2-893a4a085f4b,Martin Vaughn,General Practitioner,30,1.4,Moda Health
+44ec5f56-c3b0-4185-9984-a91e19ed2178,Jeffrey Moran,General Practitioner,21,1.4,Moda Health
+59ffb729-5ba2-4656-b89d-608c2307eca6,Debra Clay,Surgeon,37,1.6,Moda Health
+c3d3e435-be0c-49fc-bde5-e0b928cad886,Barbara Daugherty,Surgeon,5,3.8,Moda Health
+bb47d1ea-1ad1-49ed-9a8e-5c95f9c94d75,Chris Hughes MD,Cardiologist,3,4.8,Moda Health
+4db01fad-325b-476e-bb4c-6fbbff513b47,Charles Martin,General Practitioner,15,4.0,Moda Health
+10c78785-a249-456a-9071-736d3c46aa89,Jake Daniels,Surgeon,24,2.6,Moda Health
+9a1e8293-5516-4d33-b0fc-15370a8edb3b,Shannon Butler PhD,Surgeon,29,4.1,Moda Health
+36a2592e-609b-4fb8-bb66-e698e04c7b62,Tina Velez,General Practitioner,11,4.3,Moda Health
+af471e4f-9c5e-47f3-a063-a7675d7132bb,Jacob Johnson,Cardiologist,23,1.2,Moda Health
+75814a04-c1b3-4174-93a3-c161b4de4602,Ashley Young,Surgeon,19,2.2,Moda Health
+4ae6a4ae-aec2-402e-94fe-63c977beb128,Nathan Smith,Surgeon,1,4.0,Moda Health
+859d4b2d-c77a-4d47-ae29-b0ed5512c082,Elizabeth Chandler,Cardiologist,17,2.0,Moda Health
+160bc81e-82a1-4783-a276-c37804e4e60a,Beth Lopez,Cardiologist,23,4.6,Moda Health
+ecffc433-052a-43ea-aa5d-3b3e20fd2192,Karen Wilson,Surgeon,37,2.0,Moda Health
+344d8983-3f71-4ca1-86c1-8623d4bbfceb,Scott Winters,Cardiologist,1,4.1,Moda Health
+b367c674-fba3-4a2b-a2a2-9044c05dfc78,Monique Wells,Surgeon,14,2.6,Moda Health
+6e940fba-ba62-48fa-baa0-013faeed15ae,Larry Simon,General Practitioner,20,4.6,Moda Health
+2f66407b-a3b9-4cb5-8f42-19adff50f427,Misty Dunn,Cardiologist,6,2.2,Moda Health
+f524f6e1-602a-47b1-9b53-479cf7b26cd1,Jacqueline Robinson,General Practitioner,11,3.3,Moda Health
+0249ca74-864c-486d-86ae-9397e5f14e87,Robert Jimenez MD,Cardiologist,16,1.1,Moda Health
+111b7a83-3273-4530-9cb9-7989fc4c6071,Alexandra Mcdaniel,Cardiologist,35,4.2,Moda Health
+342d989e-5028-495a-a8e7-057b37edc9b9,Michelle Schultz DDS,Surgeon,15,1.1,Moda Health
+51143efb-b983-4c2c-899d-2a0cc673490c,Diana Glover,General Practitioner,18,3.6,Moda Health
+58e65f75-431e-46ca-baaf-25accdb73d08,Juan Torres,General Practitioner,16,3.3,Moda Health
+0c826df5-514f-4117-b7b7-7f99645f1fb7,Ms. Pamela Taylor,Surgeon,31,4.7,Moda Health
+c124193b-3334-495d-b488-c4f2d3e88194,Jacob Abbott,Surgeon,32,4.7,Moda Health
+e73f1023-7611-4102-9c17-261eae7e18ee,Anna Williams,Cardiologist,2,2.0,Moda Health
+351c40a4-6084-4637-a3c0-882527caf3b4,Mary Gray,Cardiologist,24,2.1,Moda Health
+7eefad50-3cf1-42de-96d9-fc4b5056ce3e,Phillip Mills,Cardiologist,34,3.6,Moda Health
+f4e27dc5-ba84-41db-a61f-cff37783bddc,Lauren Jackson,Cardiologist,9,2.1,Moda Health
+774e0fe6-f5e4-407b-811c-c378f9440fa1,Russell Fernandez,Cardiologist,22,1.7,Moda Health
+a231286c-d47d-412f-a4ab-16ac5a0d6c30,Robert Martinez,Cardiologist,35,1.7,Moda Health
+0e02d989-5658-4374-bb36-767ee5b3c99a,William Brown,Cardiologist,8,1.1,Moda Health
+9bb9f93b-ad21-4937-a47f-af5b71563135,Brenda Daniels,Cardiologist,37,2.9,Moda Health
+79c9bfdb-ac36-4700-9476-5878b25f740a,Eric Summers,General Practitioner,35,3.0,Moda Health
+49a1b02e-aff9-42e4-b544-48f37cef93de,Jessica Lawrence,Cardiologist,11,2.7,Moda Health
+3b5d21ca-766e-42ab-80b8-63650f6197c2,Mr. Jonathan Nguyen DDS,Cardiologist,18,5.0,Moda Health
+4d73e699-ed05-4a5d-a49e-501017f156c9,Jerry Reed,Cardiologist,29,3.6,Moda Health
+737216be-29be-450d-a5cd-7c00f3f432ae,Elizabeth Holmes,Surgeon,23,3.2,Moda Health
+8aa7b9b6-29a9-4371-8472-3dd136094624,Gina Frederick,Cardiologist,29,1.3,Moda Health
+d891961a-6468-4565-b99d-8ead4d7eca99,David Bell,Surgeon,4,2.8,Moda Health
+909bd8d0-3031-4a75-81bd-1b35f10cd8ce,Brittany Park,General Practitioner,37,1.3,Moda Health
+4afc67e3-0380-4289-bae2-be879924495e,Valerie Tucker,General Practitioner,19,2.9,Moda Health
+c68ee751-bddd-4224-aa30-1286a289956c,Robert Ramsey,General Practitioner,10,1.1,Moda Health
+427730bd-8ddd-4db7-8c0f-444243f75451,Lindsey Holmes,Surgeon,26,1.6,Moda Health
+c10ffb50-e77f-42ca-a896-aca813bd509e,Edward Hunt,Cardiologist,34,3.5,Moda Health
+8d7050db-91db-48eb-8bec-8ba063ef2fbc,Sandra Fisher,General Practitioner,37,3.7,Moda Health
+f590ef64-09d3-4c32-b2c7-e22dfa04da89,Gerald Walton,General Practitioner,10,3.4,Moda Health
+eb4f8604-791d-4884-b20b-7cbc323c5984,Steven Reilly,Surgeon,5,2.0,Moda Health
+6509a153-375d-4217-8328-2567f9fcce74,Jose Vega,General Practitioner,17,1.3,Moda Health
+9fa4a22d-7cab-45da-8c89-fe3452d7ee8c,Samuel Mckenzie,General Practitioner,12,3.7,Moda Health
+ce4e6aab-b5c3-4df4-8194-dacc8311e7e9,Karen Morgan,General Practitioner,23,4.1,Moda Health
+656b8b2e-292d-44e1-9a62-1503437c1c4b,Christopher Thomas MD,Surgeon,20,1.5,Moda Health
+e31e5e2a-ded8-44dd-bff3-f3fc6775d448,Bethany Valdez,Surgeon,15,4.0,Moda Health
+8e8e2aaf-cff4-4db8-9baa-782add9e049d,Lance Williams,Surgeon,38,4.1,Moda Health
+99041e6e-6815-4597-bc42-077e39c28039,Michelle Atkins,Cardiologist,15,1.4,Moda Health
+c33d27a9-b727-4456-9334-4cc6726bedaa,Kevin Lawson,Surgeon,10,2.9,Moda Health
+b0bab062-005a-475b-8e6c-e56a63217043,Joshua Jackson,Surgeon,16,1.0,Moda Health
+32744002-5a20-4d21-9a68-aa72309d96ae,Omar Holland,General Practitioner,1,3.5,Moda Health
+e0c76352-09a2-4012-b2a5-60681b07c7d7,Jamie Thomas,General Practitioner,23,4.4,Moda Health
+0de9e11f-30e5-4039-92bc-f71178c9f0b1,Jeffrey Ellis,Surgeon,21,4.4,Moda Health
+0af36ad7-50d3-4288-adb9-99caab45599c,Sharon Brown,Surgeon,20,4.7,Moda Health
+416f5bdf-8161-417c-95ab-aaabab5d3fb7,Daniel Martin,Cardiologist,6,4.1,Moda Health
+6866d85d-cd86-4b04-b0e1-d52834c80e2e,Krystal Martinez,General Practitioner,25,2.7,Moda Health
+109e298d-86d1-4125-b6b7-411ce64c5096,Jennifer Cox,Cardiologist,4,4.1,Moda Health
+0b8be96f-4175-4410-adfa-3b9c92e4148f,Pamela Martinez,General Practitioner,6,4.9,Moda Health
+d95a5a21-2538-44bb-9323-83aef3f0a1f8,Selena Brooks,Cardiologist,24,2.5,Moda Health
+d05c2083-c1ef-41c7-b7c9-10ae0387a0c7,Deborah Cameron,Cardiologist,4,1.1,Moda Health
+8de2ecaa-9787-4c17-8f20-ec11cac4b1f5,Erica Moon,Cardiologist,39,3.0,Moda Health
+53e58526-2cd1-41e6-bfcf-3aae373ad67b,Michael Watts,Surgeon,18,2.4,Moda Health
+b0130033-2c22-4881-9eac-73b923dcb4dc,Calvin Allen,General Practitioner,33,1.7,Moda Health
+c601a2fc-9456-485b-b428-de14676eedae,Dalton Knox,Cardiologist,9,4.7,Moda Health
+f6acb6e3-9481-4b73-80b6-37be004c4f06,Matthew Valenzuela,Cardiologist,29,1.5,Moda Health
+8187ea7d-d0b2-4839-9542-31ebd615669d,Abigail Gonzalez,Cardiologist,36,3.6,Moda Health
+06d4b79e-c2eb-476b-a586-76c1ed734e21,Eric Vargas,General Practitioner,2,1.7,Moda Health
+c5419998-146a-4d4c-9003-b17f3718b3d7,Shannon Weaver,General Practitioner,34,4.2,Moda Health
+12f77101-76c7-48b6-bb67-bbabbd3d94eb,Sandra Griffin,Cardiologist,23,2.0,Moda Health
+45119ef7-2bb9-4e5d-a588-7ec5e5c18994,Leslie Moreno,General Practitioner,39,3.8,Moda Health
+d3eaa1b4-f970-46fa-84dc-a373eecba4ee,Jennifer Hunter,Cardiologist,7,3.5,Moda Health
+ffbf7f31-69fc-4caa-8af3-5d8104b54eb1,Juan Liu,Cardiologist,14,3.9,Moda Health
+8f702678-9546-4de8-8a93-1359d861b152,Matthew Sherman,Surgeon,18,2.0,Moda Health
+51d6a555-2e64-4d84-b346-e1ef959a81a2,Paul Duffy,General Practitioner,4,3.0,Moda Health
+4a860ca0-9304-482c-ba39-3179192673c2,Jennifer Snow,Surgeon,8,2.4,Moda Health
+4da6c4df-b526-4a5c-b4a1-4549d13a37fa,Katie Snyder,General Practitioner,9,1.7,Moda Health
+1c8449fe-84cd-4c31-90ab-b775334fcd3d,Sarah Young,Cardiologist,33,2.9,Moda Health
+352023b2-d240-4f35-87ca-786403262763,Alexander White,General Practitioner,2,4.6,Moda Health
+3c3e0509-c248-4ddc-b76b-3e5df078a9a4,Donald Tate,General Practitioner,6,3.3,Moda Health
+ddb9c80e-32d7-4b73-aa1b-31f08accbf12,Monica Byrd,Surgeon,28,3.5,Moda Health
+c9c8f6de-6627-462a-914c-9c0d7f96012b,Laura White,Surgeon,14,3.2,Moda Health
+fe26e61e-b969-4775-bb63-34919aad54c1,Alexander Crawford,Surgeon,23,1.2,Moda Health
+133416d4-5f1e-420d-9ac9-9d9cf65fb930,Derek Cohen,General Practitioner,17,4.5,Moda Health
+bb9ccd40-79c2-411b-8093-609377352800,Heather Scott,General Practitioner,33,1.5,Moda Health
+7a7e0bba-551f-48e9-8529-dc0c0f496638,Courtney Lewis,Cardiologist,6,3.9,Moda Health
+8ccc33f6-3f1b-4c2e-82b5-c26bb11c4305,Rebecca Adams PhD,Surgeon,16,2.8,Moda Health
+189cfdce-6504-44a4-8c9e-ad7920248c87,Christine Villegas,General Practitioner,5,3.8,Moda Health
+9dbb8dbf-4cc1-4fad-8d85-09073b43e1f1,Erica Castillo,Cardiologist,13,4.4,Moda Health
+18aece64-e269-4aec-9a47-b9bb5eb44fa2,Sydney Galvan,Cardiologist,5,3.8,Moda Health
+e108d905-b84f-4ecf-87de-6db046905c73,David Tran,Surgeon,22,4.4,Moda Health
+be7f2775-89fc-4afa-bc41-5506273ec876,Kenneth White,Surgeon,19,2.9,Moda Health
+0e48cf59-7a3c-4c9c-a7f1-f0db9b2a6d7d,Susan Lee,Surgeon,22,1.4,Moda Health
+07b73127-b720-4ef2-b0ad-f7cb696f7c3d,Craig Bird,Surgeon,11,2.5,Moda Health
+6f384286-a01e-4b89-94c0-4f960320e840,Heather Knox,Surgeon,32,1.8,Moda Health
+b8a28f9a-0d3b-487a-bcef-73354c590a39,Michael Smith,Surgeon,10,4.1,Moda Health
+a120f727-6ccf-473b-917d-59be70f48d18,Kenneth Johnson,Surgeon,32,3.8,Moda Health
+5cdaa956-47e6-4f44-ab26-a98006876d8e,Kelly Cline,Cardiologist,28,3.3,Moda Health
+9cb18ef9-2516-4cc6-915c-fbf03d964919,Courtney Holland,Cardiologist,35,4.1,Moda Health
+8a965afe-652d-4af8-91c5-c02db29376b9,Christopher Mccarthy,General Practitioner,7,2.5,Moda Health
+4f3fc34d-b406-4c86-95b4-03238abd6d6c,Brett Cook,Surgeon,26,2.5,Moda Health
+528bd9d8-c3e4-4472-87d9-c6dfc17ef354,Mark Brown,Cardiologist,14,3.8,Moda Health
+2411a13e-7ced-470e-8d40-f09f5df4a993,Neil Elliott,Cardiologist,36,2.8,Moda Health
+37159807-6a88-4b24-b5a3-12e99dab0779,Robert Barry,General Practitioner,11,4.2,Moda Health
+ecb1ad26-14c2-4aca-809f-61341a86f7a8,James White,Surgeon,15,1.6,Moda Health
+a2908e24-03c2-4c5b-a76c-8c4a2bf780d2,Chad Nichols,Cardiologist,5,3.4,Moda Health
+7445ebb4-1535-476f-8576-abe3f3759041,Marvin Stevenson,General Practitioner,4,2.5,Moda Health
+12ccef43-91d4-42d6-93a5-7c5d87340d65,Nicholas Kramer,Surgeon,14,2.0,Moda Health
+ca97a697-86fe-4a87-9bed-00db2f87e550,Joel Morgan,General Practitioner,1,2.0,Moda Health
+2c5cb021-e7cd-4a6c-a1ae-a04c8e5fac61,Patricia Wood,General Practitioner,26,4.0,Moda Health
+6aa80bcd-fab7-45bf-bc83-7a1e2ef343f2,Alison Lloyd,Cardiologist,34,2.3,Moda Health
+f2b7bc24-1bcd-46ad-b64c-95f11365c160,Matthew Campbell,General Practitioner,39,1.9,Moda Health
+a59eb248-c56e-4e80-bb51-7d5200ae6308,Michelle Smith,Surgeon,4,4.6,Moda Health
+24d519b2-bb82-4f4d-a75b-ba735d68bbd5,Anthony Kim,General Practitioner,11,2.7,Moda Health
+99305ec9-239d-4707-9d23-000095760234,Charles Medina,Surgeon,14,3.1,Moda Health
+305588f2-5390-4f12-a3bc-5d0a3c95bd99,Michael Cross,Cardiologist,9,2.5,Moda Health
+e9cbd72b-e6b3-48b7-8aa4-6694f5964ee7,Teresa Wong,Surgeon,14,1.9,Moda Health
+f727f917-a27d-4533-878c-99e587dbd524,Brian Hernandez,Cardiologist,35,1.4,Moda Health
+4f036717-f109-424c-9984-a4e5888e4348,Teresa Smith,Surgeon,17,1.2,Moda Health
+af9ab15d-9471-443e-b4eb-9e7c70b9ea7b,Dr. Nathan Zamora MD,Surgeon,19,4.5,Moda Health
+41958dda-26e6-4939-b431-7801eb646c00,Alan Johnson,General Practitioner,8,1.7,Moda Health
+29de67b3-ee07-42af-b6a3-d9ce0db636f7,Kevin Burke MD,Cardiologist,5,3.2,Moda Health
+e37f6f79-7db2-4c80-b239-490a3247ca90,Stacy Schroeder,General Practitioner,31,4.9,Moda Health
+0ae15366-327e-49b6-8a09-7f3bf11d2d64,Matthew Bell,Cardiologist,9,1.7,Moda Health
+7a4e746c-583f-4850-a11a-b3f766411ca1,April Mendoza,General Practitioner,10,3.4,Moda Health
+d2a8dc38-e14f-4dd1-a05d-bb2981c595d4,Stephanie Kane,Cardiologist,29,4.0,Moda Health
+dccaca10-38a8-4f1b-aa56-ecb2da175a5d,Kimberly Underwood,General Practitioner,17,1.3,Moda Health
+14905181-a01f-4295-87de-8dbe31c89689,Virginia Edwards,Surgeon,29,2.8,Moda Health
+cba40c96-27d8-42e7-96a2-29ef03ffefa4,Isaac Whitney,Cardiologist,16,4.2,Moda Health
+373568f0-b7d3-4a10-9a6e-ff237eb792bd,Candice Livingston,General Practitioner,1,3.9,Moda Health
+64c35ccb-44db-4cb7-b1ad-37e07f3371ca,Sara George,Surgeon,33,3.7,Moda Health
+191696cf-11e4-4467-817c-4a401fa0786f,Craig Harrington,Cardiologist,39,4.1,Moda Health
+af4fbbce-32e8-4408-ab2f-bc0658ce68c8,Nicholas Weber,Surgeon,2,3.3,Moda Health
+ec3e7e10-68cc-494b-8f4d-c2436d70e672,Samuel Owens,Surgeon,39,2.5,Moda Health
+a209582d-8506-491d-8598-d05541ff9ce9,Joshua Hill,General Practitioner,34,2.8,Moda Health
+68685e6b-6089-415c-becd-2e49ebd7b394,Christine West,General Practitioner,8,2.1,Moda Health
+b98c8e22-bfe6-4679-8a38-ee5d08beaa12,William West,Surgeon,32,2.4,Moda Health
+5267fdc2-67d4-46a2-9f48-c1843143c572,Edward Mahoney,Cardiologist,15,4.5,Moda Health
+73badd12-46c0-49be-a8e8-384ec39fcf23,Antonio Lewis,Cardiologist,25,3.1,Moda Health
+20f3d5dc-2cf5-4e9b-a449-393eb56eeea1,Thomas Ferrell,General Practitioner,23,1.3,Moda Health
+b43b8067-5966-47ce-ae26-45f3b215b99e,Gary Russell,Cardiologist,24,3.7,Moda Health
+db0ba706-fc31-450f-9dae-0110adb54719,April Lopez,Cardiologist,7,3.9,Moda Health
+8015f24b-5f8c-487c-84d3-7078941d531e,Benjamin Valdez,General Practitioner,30,2.6,Moda Health
+c200d2c8-5e30-4912-88cf-abeb6f515fa4,Lauren Garcia,Surgeon,10,2.4,Moda Health
+fc09afa9-0db9-48aa-9583-30d51fa2cdbb,Marcus Nguyen,Cardiologist,6,1.4,Moda Health
+ee82b61a-9ce7-4ee0-be8b-a00a36792016,Mark Hernandez,General Practitioner,13,3.2,Moda Health
+c2f285a1-8e76-45c6-adc3-c60a5bb028dc,Brian Pineda,General Practitioner,8,2.1,Moda Health
+d69f57f3-ef39-40dd-ba26-8ea4957ec1f2,Lisa Sosa,General Practitioner,34,4.7,Moda Health
+2c84b3d7-8f46-41b0-bfc1-54a8495ede8f,Theresa Guzman,Surgeon,18,4.4,Moda Health
+d1924cb8-dfaa-401e-9e5b-28386c4cc04b,Theresa Walker,Surgeon,4,3.6,Moda Health
+07c8ad20-e03a-48a6-b59b-46ca5f0e96ff,Tami Martinez,General Practitioner,13,4.5,Moda Health
+9cfce653-2ede-4d96-91ca-444a2aaf1aa4,Charles Woods,General Practitioner,38,4.9,Moda Health
+b3afee0e-b070-4bba-8ad2-97255be88f26,Howard Carey,General Practitioner,31,3.4,Moda Health
+7238466d-a04d-4415-b9f3-6ec17854f609,Mitchell Smith,Cardiologist,1,4.9,Moda Health
+1f5f4967-312c-4ef1-8a43-3398af1a5777,Rebecca Baker,Cardiologist,38,3.2,Moda Health
+e9b93d8b-d813-48db-a7f5-288c5228bfa9,Thomas Trujillo,Cardiologist,4,2.2,Moda Health
+38f35f85-6db1-4dbd-8432-29b9be4b7ae7,Alexander Hernandez,General Practitioner,19,3.0,Moda Health
+4f015d58-7061-43d5-af80-5315e5e57801,Nicholas Carter,Surgeon,14,2.6,Moda Health
+8e7f0f9b-145a-4ade-8691-79a36b905f49,Mary Brown,Cardiologist,31,3.4,Moda Health
+a374c6e4-1c97-41d4-b3e4-21ca32d2c980,Elizabeth Pitts PhD,General Practitioner,32,2.9,Moda Health
+b190c234-dc1e-4229-8793-5a6e09cca981,Emma Mcfarland,Surgeon,30,2.1,Moda Health
+92aa7313-c733-4408-885d-03f1013775ec,Michael Kaufman,Surgeon,26,3.5,Moda Health
+0824ce7e-3d54-4753-b960-76eae6f589f1,Casey Thomas,General Practitioner,14,4.2,Moda Health
+54ee332d-ab7f-4a32-bf90-01389ac5de4f,Samantha Bailey,Cardiologist,1,1.3,Moda Health
+1c7986ac-d4e4-42df-b0cd-b831346f28d9,Mallory Chung,Surgeon,25,2.7,Moda Health
+4ca1a5e7-c31f-4e73-b1b0-81ac074d90b1,Sarah Bradley,Surgeon,22,3.6,Moda Health
+1830ded5-b39a-4fc8-87da-49cda0074d11,Janet Snow,Surgeon,31,1.0,Moda Health
+6c7eecd2-7330-407f-9ee3-92fe2225785a,Roy Cox,Cardiologist,15,4.5,Moda Health
+d4d22126-544f-4c20-993b-da26f9b6e211,Shane Nichols,Cardiologist,33,3.8,Moda Health
+b771a6bb-d23f-44cb-807b-875acce92366,Joshua Miller,Surgeon,26,4.0,Moda Health
+157e6f37-4dc6-4c7c-820f-eecf0fe2777c,David Walsh,Cardiologist,33,3.1,Moda Health
+90d528fb-28cd-4a69-b8fd-b9f976bfbe12,Lisa Ryan,Surgeon,38,4.9,Moda Health
+8601f952-35b5-4c2c-9601-7979943094aa,John Wiley,General Practitioner,2,1.6,Moda Health
+a7d10b58-96aa-4f90-812a-bfba4ae2f2bf,Michael English,Cardiologist,15,4.8,Moda Health
+ae252f1a-4964-4bf7-b844-e83c92c6945f,Kevin Perry,Cardiologist,3,5.0,Moda Health
+a6afb35d-8d2f-4a6a-9952-b79947cc9273,Amber Johnson,Surgeon,4,1.3,Moda Health
+fc32f949-e3f9-493d-80fb-46def39927c3,Ronald Ward,General Practitioner,2,2.3,Moda Health
+bfd2c770-86bd-48ec-ad73-d0e42942c6e3,Shane Shaw,Cardiologist,28,5.0,Moda Health
+6dd1b98d-f485-4892-aa9c-c5fd9819345a,Russell Montgomery,Surgeon,23,2.7,Moda Health
+eef24e4f-4d4d-40af-b10a-21affe4d8301,Melissa Norton,Cardiologist,24,4.3,Moda Health
+e8ca2fb1-3b5e-4230-a5eb-a70265afba91,Mario Morrison,Cardiologist,4,2.2,Moda Health
+8fe4d8ec-2be5-4d42-a97b-37f02ae07cd9,Brandon Carter,Cardiologist,28,3.0,Moda Health
+5487d0f7-8af4-45cc-9025-a83dfd5ca302,Michael Smith,Cardiologist,24,2.9,Moda Health
+c7347404-37b9-4d11-ad20-e53f3e796b02,Alison Smith,Surgeon,38,2.3,Moda Health
+abbcde70-b421-490e-89a5-30f6261cef9f,Kristin Brown,General Practitioner,7,3.1,Moda Health
+134a4d18-d182-4d98-a241-b81913299ca1,Melanie Wright,Surgeon,4,1.3,Moda Health
+a600a126-1d82-4cb6-bd44-353bb0e6a4da,Mandy Williams,Cardiologist,8,1.9,Moda Health
+21c7bba5-02b8-48e4-8071-2fe54e0fce71,Katrina Espinoza,Cardiologist,15,2.3,Moda Health
+f82588d8-f9ba-46ab-a546-790267e674c0,Tiffany Barber,Surgeon,21,4.9,Moda Health
+1fef89d3-0e6a-4e18-a23c-768bdb2eb5aa,James Long,Surgeon,4,2.8,Moda Health
+7722c315-21bc-4e8b-8d77-62109a42fb64,Rebecca Williams,General Practitioner,21,4.8,Moda Health
+4ac834b4-dff5-4db5-a751-f5b5651485a9,Melissa Hahn,Surgeon,35,3.3,Moda Health
+3bec2d90-787c-48de-a8b6-a4733d08ef74,Kevin Gonzalez,Surgeon,22,1.2,Moda Health
+9b0eacd0-39a8-4372-9595-eecca320dab2,Adam Anderson,Cardiologist,28,3.6,Moda Health
+c3b1254b-860e-4991-8053-f2c0f982a230,Lauren Henry,Surgeon,29,1.1,Moda Health
+945c94e9-75e4-41cf-8e8a-d8a26affddef,Alejandro Jacobson,General Practitioner,9,4.0,Moda Health
+21d40262-480b-46e2-b3df-67f2903a1325,Andre Hernandez,General Practitioner,18,2.7,Moda Health
+dd2b03fb-8353-4616-a8b0-201aa2f6d358,Kimberly Weiss,Surgeon,17,3.1,Moda Health
+0847701d-e6b9-4022-a10a-48e8cf136629,Ann Gray,Surgeon,30,4.2,Moda Health
+276f1234-8841-46f5-a25f-0e7021772f53,Kimberly Lyons,General Practitioner,19,4.6,Moda Health
+40bc2c7f-84b9-43fa-8268-7746958834e7,Grant Long,General Practitioner,35,4.9,Moda Health
+b7d4a3f7-2c8e-4afb-8c7d-370e8bc18f01,Laura Collier,General Practitioner,31,4.2,Moda Health
+7b1c90c3-dfbc-4063-98c3-6e9c08c87b9a,Veronica Jones,Surgeon,1,1.0,Moda Health
+2fba4d6e-9ca9-42f8-8f08-66b28bb4f8f7,Elizabeth James,General Practitioner,2,3.4,Moda Health
+a648849b-534e-4350-bb55-6e8ffecc8229,David Nolan,Surgeon,35,2.2,Moda Health
+2f39b15a-a25b-4253-819d-f640e3117759,Nicholas Brooks,Surgeon,19,3.8,Moda Health
+acddb246-fffb-4d4d-b606-5093b4eea8e4,John Gonzalez,General Practitioner,22,2.2,Moda Health
+90d19130-cd85-4c3c-9fa7-b79c2c22d399,Thomas Chang,General Practitioner,26,3.2,Moda Health
+bcd64168-fac2-4fe4-a9cb-59ee7e3d0cde,Alexis Harris,General Practitioner,9,4.7,Moda Health
+0bf72207-357a-47c9-a018-59a03f567352,Zachary Rios,Cardiologist,7,2.0,Moda Health
+3f2b7482-cf1c-4098-95a9-d73283a1454e,Ronnie Saunders,Cardiologist,4,1.4,Moda Health
+43d62a11-b7d4-42ce-b50a-032367834201,Tina Phillips,Surgeon,23,3.1,Moda Health
+1df9d280-2ea4-4927-b66b-a637dabb9f57,Allen Harding,Surgeon,15,4.7,Moda Health
+494593fb-094e-4dbf-9642-b2000b484d36,Glenda Crawford,General Practitioner,3,1.7,Moda Health
+a14b627d-1ec8-48e5-8ce2-df937f8557e5,Ashley Brown,Cardiologist,26,2.0,Moda Health
+fcf82399-db8a-4454-8f7e-92e44fe1f9cc,Nicholas Gonzalez,Cardiologist,11,1.1,Moda Health
+ef1055dd-cc67-426a-9efd-6c909a0fd01e,Joshua Owens,General Practitioner,31,1.1,Moda Health
+41aa9018-3638-45fe-bd32-3b1958828b4f,Daniel Jones,General Practitioner,23,3.2,Moda Health
+56f6066d-2982-45bf-b0a2-5d4ce927e441,Kevin Massey,General Practitioner,26,4.4,Moda Health
+a8d795b1-ddf2-40d0-9ced-66b947624fe3,Micheal Franco,Surgeon,17,2.8,Moda Health
+ead988f7-5cc3-4598-92bf-0b65bcf905ed,Tyrone Lee,Surgeon,3,1.9,Moda Health
+d85b4af8-3692-4cfb-93fa-a8f1097ae955,Michael Harris,Surgeon,33,4.7,Moda Health
+753bbfa0-a54a-4ada-a4d1-44ca2c626d0c,Melinda Fleming,General Practitioner,16,3.5,Moda Health
+769f163c-032a-4bc6-9ee4-7e7635b31287,Deborah Thompson,General Practitioner,26,4.5,Moda Health
+59337ee2-f45b-4bf6-a0c2-15286580f610,Jacob Wilson,General Practitioner,14,1.5,Moda Health
+7e18eea8-e304-4b0d-9efd-7dcfaff39ce4,Monique Lopez,Surgeon,21,2.8,Moda Health
+0220eea2-9a20-43bf-998f-58bed6cee8e4,Douglas Mills,Surgeon,18,4.4,Moda Health
+13ca6581-bff5-4bfb-8092-67b3a5d76252,Michelle Wood,General Practitioner,9,4.6,Moda Health
+fff7c837-d978-4a36-a9a1-e151cf9c8bb6,Michael Leblanc,Surgeon,34,4.5,Moda Health
+68294c26-6788-4ae2-aaa0-e3f50eed82fc,Virginia Moran,Surgeon,13,3.5,Moda Health
+b4ade7c0-cc05-4474-9fad-7b9ff17e88b0,Megan Wilkerson,Cardiologist,23,4.0,Moda Health
+a37b12cd-4dfc-48ac-af52-800566a8e8f5,Emily Smith,Surgeon,11,3.7,Moda Health
+16ff87ed-9d26-4ead-84be-038d3200393d,Jennifer Hernandez,Cardiologist,30,4.4,Moda Health
+6cb67982-0790-4047-8dcd-dcb1d9c409b7,Gabrielle Frank,Surgeon,22,3.5,Moda Health
+0179345f-7534-4e34-9286-897009ee5dc1,Roy Lawrence,General Practitioner,31,1.7,Moda Health
+9d299d48-8b92-41d7-b3f2-ee686757dbc5,Matthew Osborne,Surgeon,19,3.6,Moda Health
+41978d78-c983-456a-b9df-9fe8d55735ca,Travis Garcia,Surgeon,34,2.8,Moda Health
+b1eefbaf-992f-489e-8610-6f3bd42adadd,Cody Gutierrez,General Practitioner,5,1.2,Moda Health
+392d8cc4-eabf-4df8-b59d-02c2becf7230,Mrs. Megan Baker,Cardiologist,36,3.1,Moda Health
+f3c293ca-239e-4534-a734-4190af2a33e9,Ryan Chen,General Practitioner,27,2.8,Moda Health
+54d03959-b3ab-4130-992d-5488c3945b09,Kathy Moore,Surgeon,17,4.5,Moda Health
+43623adb-a112-4f09-bd45-5c00c8dd7ac2,George Holland,Cardiologist,17,3.6,Moda Health
+4a3a2ce3-629a-4d07-8920-370d54cd8010,Benjamin Stanley,Surgeon,9,2.0,Moda Health
+069b96cd-77cb-45a9-a1b4-a1400473ac90,Eddie Phillips,Cardiologist,35,1.9,Moda Health
+1bff6601-040b-46b7-acd7-9871f6676b9a,Austin Oliver,General Practitioner,5,1.4,Moda Health
+a98e0f60-ef91-48d2-ac54-7a22d58fc225,John Hill,General Practitioner,4,2.9,Moda Health
+eb41cbb8-679d-43e5-84c8-81de3f8f8b4d,Russell Aguilar,Cardiologist,7,2.4,Moda Health
+71e13dc6-9b78-41bf-bf59-cc30d608fc44,Kayla Lopez,Cardiologist,28,3.3,Moda Health
+36f99272-13b6-444e-8710-730c275585ae,Nathan Smith,Surgeon,11,1.2,Moda Health
+6ababc90-d458-4bd1-8280-fb7c30e22f96,Jennifer Cooper,Cardiologist,11,2.0,Moda Health
+93628896-ee1f-4879-ade9-336c90093e31,Calvin Hughes,General Practitioner,31,3.0,Moda Health
+e3bcde6d-d9a3-4adf-9ba3-2b29b1f7792e,Nathaniel Baker,General Practitioner,30,2.5,Moda Health
+c8ba9ad2-b8af-49a2-9001-eeb25e0e0233,Kenneth Gonzalez,Cardiologist,22,3.5,Moda Health
+20a8cdf1-1813-4b23-b24f-826d3863b1b0,Joshua Hall,General Practitioner,28,2.5,Moda Health
+46ddcc14-dae3-46ea-ae18-47459a4d1ab6,Kristina Stanton,Cardiologist,9,2.8,Moda Health
+b4c42857-58ca-4cd3-bb53-aa41ff4a551f,Sonya Pacheco,Cardiologist,11,1.9,Moda Health
+53df0437-ffa7-498e-bfb3-6a0aecc41f71,Barbara Thomas,Surgeon,26,2.2,Moda Health
+5aff08f0-6998-4942-8384-35f96cacf723,Jordan Wall,Cardiologist,34,1.5,Moda Health
+745e053f-132d-471d-ba58-a35da913db3b,Pamela Meyer,Cardiologist,33,4.1,Moda Health
+46c00627-a159-497a-b80e-2585cf2751ac,Lisa Robinson,General Practitioner,4,4.2,Moda Health
+8253a490-de8a-4aa7-82a1-834ea21464f5,Shelby Rodriguez,Surgeon,5,1.2,Moda Health
+ef235252-518f-4f63-9c65-3e0f99708dc7,Jeffrey Anderson,General Practitioner,25,1.6,Moda Health
+ec46809a-f695-406a-b1b1-a738306e67aa,Brett Griffin,General Practitioner,26,4.2,Moda Health
+4de0e5b8-ad22-4e88-92f6-38d65bf3c2b4,Patricia Holmes,Cardiologist,17,4.6,Moda Health
+a9525637-327e-4f02-b374-f21c5fcec1df,Stacey Rodriguez,General Practitioner,22,2.5,Moda Health
+e4f4f01d-529f-4ae1-99d6-de67f9e72036,Carrie Solis,Surgeon,18,3.7,Moda Health
+44980f55-ea6d-4e5b-8c68-0dcd8d8495d8,Louis George,Surgeon,3,1.8,Moda Health
+6083cfd9-16f0-4ef0-a828-49b3f2eda252,Michael Phillips,General Practitioner,32,4.5,Moda Health
+ba4cd0ed-72e2-420b-bca5-633f30cbc210,Tiffany Fritz,General Practitioner,1,4.3,Moda Health
+376b29ca-3265-45ad-90dc-ff2f93d0e282,Holly Scott,General Practitioner,28,2.0,Moda Health
+01456942-7071-45fd-baa2-f6b4535378e0,Patricia Bell,General Practitioner,25,3.4,Moda Health
+20556e29-4cbf-47fa-8c5f-1c3bd4059218,Alicia Villa,Cardiologist,33,3.9,Moda Health
+4b2e2abf-122c-4f89-a3a8-b35882be5383,John Price,Surgeon,22,4.5,Moda Health
+529214f7-20d1-448b-94ed-f6d78dcfd896,Teresa Singh,Cardiologist,8,2.9,Moda Health
+79c9db59-62de-476e-a078-6ba0527685c3,Jessica Davis,General Practitioner,32,1.5,Moda Health
+907b9040-ab6a-4dde-a145-72d6e8a92624,Tammy Gonzales,Cardiologist,16,1.4,Moda Health
+38418fc7-41cd-49a1-9101-1bac25635e55,Matthew Lee,Cardiologist,5,3.1,Moda Health
+91f90c35-b602-4d6a-a084-9ad73f17fbbc,Amy Hart,Cardiologist,38,1.2,Moda Health
+89237144-9e05-493c-9d75-ebbd5e58bd12,Luis Scott,Surgeon,32,3.5,Moda Health
+768fec90-4d26-4cc8-8ccd-aa6fbf7c45f4,Gary Bowers,General Practitioner,2,1.1,Moda Health
+b2f48516-d84f-4537-acea-3ad98170ad42,Benjamin Lane,Surgeon,2,1.1,Moda Health
+01563521-fd21-472f-a52c-45ea581e4249,Denise Cunningham,Cardiologist,17,1.3,Moda Health
+c26cbc71-7f87-48de-b9e3-1c25263f312c,Stephen Jones,Cardiologist,2,2.5,Moda Health
+ff5922d5-0851-4f2c-84e9-0dc4d145f1a1,Stephanie Baxter,General Practitioner,21,2.5,Moda Health
+ecf6d4ad-b147-4fdd-a7b0-796b64185172,Justin Harris,Cardiologist,15,4.1,Moda Health
+d638d703-e2ff-45e2-bc10-f99e6f87054d,Michele Thompson,Surgeon,5,4.4,Moda Health
+af4a3477-d92b-4b12-b477-109d1b8bcff3,Daniel Velasquez,General Practitioner,20,3.9,Moda Health
+5f31c52e-d461-427f-b815-79b66cc3b2c2,Madison Davenport,General Practitioner,13,4.5,Moda Health
+6ccb1998-6261-4fc5-b359-b2956e445a66,Dana Park,Surgeon,6,3.3,Moda Health
+83732998-2eb2-4bf8-bfcb-f6e3101cba6d,Brenda Ray,General Practitioner,14,4.8,Moda Health
+f8280809-36c3-4e88-b003-d9c4affa2d2c,Shelby Nelson,General Practitioner,39,4.6,Moda Health
+6cb7a063-bb49-44ab-9980-996f2f945a49,Joshua Wheeler,Cardiologist,24,2.8,Moda Health
+2e0ca70d-3848-4139-9c7c-bda5c927673d,Ronald Espinoza,Cardiologist,12,2.9,Moda Health
+956e446e-b1d5-444c-b681-cd88629932db,Alexandra Jones,General Practitioner,22,4.4,Moda Health
+5eb45753-9921-492b-b61c-46d55afea173,Brian Lee,Cardiologist,24,2.6,Moda Health
+28c36917-aa41-4ba6-8984-a66524274af3,Scott Collins,Surgeon,37,4.8,Moda Health
+3bce1b6c-cd65-4297-8c6f-e68af166b2f0,Amanda Buckley,General Practitioner,9,2.2,Moda Health
+a6482b62-3f53-4f12-8ce1-fb2341b1801b,John Lawson,General Practitioner,8,2.0,Moda Health
+d1e6ca2b-dd11-45e0-9d14-474ecc2244b6,Michael Anderson,Surgeon,32,1.4,Moda Health
+144cf976-fa02-41c9-8dc5-fc1f124e4473,Todd Juarez,Surgeon,29,2.0,Moda Health
+7dfe6af1-6fdf-4c09-901c-d0be33d05a43,Jeffrey Green,General Practitioner,4,3.2,Moda Health
+09ce3364-dc60-4dbb-adde-5c6ec3081c52,Peter Miller,General Practitioner,24,4.9,Moda Health
+13362e3c-f14a-469f-b856-82ce524bdf98,Billy Wilson,Surgeon,16,1.8,Moda Health
+51be5a8c-159b-4024-bd77-d4166dfd378c,Brian Valencia,General Practitioner,5,3.2,Moda Health
+7a45ab46-f5f4-4d38-8f6b-edcb2ea709e3,Chelsey Cummings DDS,Cardiologist,8,4.5,Moda Health
+bdc80142-5a97-4007-b849-c5023c596ec0,Douglas Harrison,General Practitioner,10,3.4,Moda Health
+fb18587b-929f-4539-977a-b604d2ee2bb1,Lindsay Ruiz,General Practitioner,24,4.3,Moda Health
+4883abd4-cfba-435f-b2f0-3c12f607d4c2,Joshua Wilson,Cardiologist,27,2.0,Moda Health
+ed135ffa-73f2-424c-bbda-d8122ad1f4b4,Jordan White,General Practitioner,22,1.3,Moda Health
+1cc75fc8-c043-4814-b8ca-0638c5daab93,Kevin Reid,Surgeon,29,4.8,Moda Health
+1a2b07fe-0736-4a07-ae6e-9628fa79adad,Erin Collins DVM,Surgeon,9,1.4,Moda Health
